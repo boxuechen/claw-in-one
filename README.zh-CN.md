@@ -23,30 +23,14 @@ Gateway，再将它连接回同一台手机，用于开发、App 交付、交互
 
 ### 在手机上创建并运行 Godot 游戏
 
-<p align="center">
-  <a href="docs/assets/clawinone-godot-demo.mp4">
-    <img src="docs/assets/clawinone-godot-demo-poster.jpg" width="320" alt="ClawInOne 在同一台手机上构建并运行 Godot 游戏">
-  </a>
-</p>
-
-<p align="center">
-  <a href="docs/assets/clawinone-godot-demo.mp4"><strong>观看 23 秒 Godot 演示（MP4）</strong></a>
-</p>
+<!-- GODOT_DEMO_VIDEO -->
 
 OpenClaw 在手机内创建 Godot 项目、构建 ARM64 APK、安装、在 VScreen 中
 预览，并启动真实 App；整个闭环都发生在同一台 Android 手机上。
 
 ### 在同一台手机上操作 Android App
 
-<p align="center">
-  <a href="docs/assets/clawinone-android-use-demo.mp4">
-    <img src="docs/assets/clawinone-android-use-demo-poster.jpg" width="320" alt="ClawInOne 在同一台手机上操作 Android Calculator 和 Calendar">
-  </a>
-</p>
-
-<p align="center">
-  <a href="docs/assets/clawinone-android-use-demo.mp4"><strong>观看 16 秒演示（MP4）</strong></a>
-</p>
+<!-- ANDROID_USE_DEMO_VIDEO -->
 
 OpenClaw 使用 Calculator 计算 `379 x 4`，把结果 `1516` 带入 Calendar，
 创建下周一 2:00 PM 的 **ClawInOne demo - 1516**，并确认事件已经保存。
