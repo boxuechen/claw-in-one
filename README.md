@@ -23,30 +23,14 @@ delivery, interactive presentation, and permission-scoped device use.
 
 ### Build and run a Godot game—entirely on the phone
 
-<p align="center">
-  <a href="docs/assets/clawinone-godot-demo.mp4">
-    <img src="docs/assets/clawinone-godot-demo-poster.jpg" width="320" alt="ClawInOne building and running a Godot game on the same phone">
-  </a>
-</p>
-
-<p align="center">
-  <a href="docs/assets/clawinone-godot-demo.mp4"><strong>Watch the 23-second Godot demo (MP4)</strong></a>
-</p>
+https://github.com/user-attachments/assets/f336e1a7-fe69-42a0-8d2c-bc67718f4c59
 
 OpenClaw creates a Godot project, builds its ARM64 APK, installs it, previews it
 in VScreen, and launches the real app—all on the same Android phone.
 
 ### Use Android apps on the same phone
 
-<p align="center">
-  <a href="docs/assets/clawinone-android-use-demo.mp4">
-    <img src="docs/assets/clawinone-android-use-demo-poster.jpg" width="320" alt="ClawInOne using Android Calculator and Calendar on the same phone">
-  </a>
-</p>
-
-<p align="center">
-  <a href="docs/assets/clawinone-android-use-demo.mp4"><strong>Watch the 16-second demo (MP4)</strong></a>
-</p>
+https://github.com/user-attachments/assets/220550ee-c104-4ffb-9d3e-745c1fc27599
 
 OpenClaw uses Calculator to compute `379 x 4`, carries `1516` into Calendar,
 creates **ClawInOne demo - 1516** for next Monday at 2:00 PM, and verifies the
