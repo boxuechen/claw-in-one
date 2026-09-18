@@ -53,9 +53,9 @@ OpenClaw 使用 Calculator 计算 `379 x 4`，把结果 `1516` 带入 Calendar�
 这段短片剪自同一台物理手机上一次连续的 4 分 42 秒运行；过程中没有使用
 桌面电脑或远程 Android 设备。
 
-> **预发布阶段：**当前固定使用 [OpenClaw 2026.9.4](UPSTREAM.md)，核心路径已在
-> Pixel 8 / Android 17 上完成保留设备验证。全新设备 onboarding、正式签名和
-> 公开分发仍属于发布前工作。
+> **Alpha 版本：**当前固定使用 [OpenClaw 2026.9.4](UPSTREAM.md)，核心路径已在
+> Pixel 8 / Android 17 上完成保留设备验证。全新设备 onboarding 和更广泛的
+> 设备覆盖仍有待验证。
 
 ## 一台手机，一个完整闭环
 
@@ -121,8 +121,8 @@ Pixel 6 系列——属于预期兼容候选设备，目前还不是经过验证
 ### 安装
 
 从 [GitHub Releases](https://github.com/boxuechen/claw-in-one/releases)
-下载已签名 APK 和 `SHA256SUMS`。第一个 Release 发布前，请先从源码构建。
-设备要求和手机内引导流程见 [安装说明](docs/installation.md)。
+下载已签名 APK 和 `SHA256SUMS`。设备要求和手机内引导流程见
+[安装说明](docs/installation.md)。
 
 ### 从源码构建
 
