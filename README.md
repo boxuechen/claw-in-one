@@ -53,9 +53,9 @@ creates **ClawInOne demo - 1516** for next Monday at 2:00 PM, and verifies the
 saved event. The highlight is cut from one continuous 4-minute 42-second run on
 the same physical phone—no desktop or remote Android device is involved.
 
-> **Pre-release:** pinned to [OpenClaw 2026.9.4](UPSTREAM.md) and verified on
-> Pixel 8 / Android 17. Clean-device onboarding, production signing, and public
-> distribution are still release work.
+> **Alpha release:** pinned to [OpenClaw 2026.9.4](UPSTREAM.md) and verified on
+> Pixel 8 / Android 17. Clean-device onboarding and broader device coverage
+> remain open validation work.
 
 ## One phone, one complete loop
 
@@ -122,9 +122,9 @@ verified support claims. See [Device compatibility](docs/device-compatibility.md
 ### Install
 
 Download the signed APK and `SHA256SUMS` from
-[GitHub Releases](https://github.com/boxuechen/claw-in-one/releases). Until the
-first release is published, build from source. Device requirements and the
-guided on-phone setup are documented in [Installation](docs/installation.md).
+[GitHub Releases](https://github.com/boxuechen/claw-in-one/releases). Device
+requirements and the guided on-phone setup are documented in
+[Installation](docs/installation.md).
 
 ### Build from source
 
