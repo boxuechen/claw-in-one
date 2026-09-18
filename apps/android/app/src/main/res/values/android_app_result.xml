@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 supports English and Simplified Chinese; other locales fall back to English. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="android_result_open">Open app</string>
+    <string name="android_result_opening">Opening app…</string>
+</resources>

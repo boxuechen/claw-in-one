@@ -1,0 +1,36 @@
+import assert from "node:assert/strict";
+import fs from "node:fs/promises";
+import os from "node:os";
+import path from "node:path";
+import { createProjectQueryTool } from "../product-plugins/project-workspaces/project-query.mjs";
+const base = await fs.mkdtemp(path.join(os.tmpdir(), "claw-query-"));
+try {
+  const root = path.join(base, "workspace");
+  await fs.mkdir(path.join(root, "app"), { recursive: true });
+  await fs.mkdir(path.join(root, "build"));
+  await fs.writeFile(path.join(root, "app", "Main.java"), "class Main {\n// literal .* text\n}\n");
+  await fs.writeFile(path.join(root, "build", "cached.txt"), "literal .* text");
+  await fs.writeFile(path.join(base, "outside.txt"), "secret literal .* text");
+  await fs.symlink(base, path.join(root, "escape"));
+  await fs.link(path.join(base, "outside.txt"), path.join(root, "hardlink"));
+  const tool = createProjectQueryTool({ fsPolicy: { root }, workspaceDir: base }, root);
+  const run = async params => (await tool.execute("query", params)).details;
+  assert.equal(createProjectQueryTool({}, root), null);
+  assert.equal(createProjectQueryTool({ workspaceDir: root }, base), null);
+  assert.equal(createProjectQueryTool({ workspaceDir: root, sandboxed: true }, root), null);
+  const list = await run({ operation: "list" });
+  assert(list.matches.some(x => x.path === "app" && x.type === "directory"));
+  assert(!list.matches.some(x => x.path === "escape"));
+  assert.deepEqual((await run({ operation: "find", query: ".java" })).matches, [{ path: "app/Main.java" }]);
+  assert.deepEqual((await run({ operation: "search", query: ".*" })).matches, [{ path: "app/Main.java", line: 2, text: "// literal .* text" }]);
+  assert.equal((await run({ operation: "list", path: "build" })).matches[0].path, "build/cached.txt");
+  assert.equal((await run({ operation: "list", limit: 1 })).truncated, true);
+  await assert.rejects(run({ operation: "list", path: ".." }), /workspace/);
+  await assert.rejects(run({ operation: "list", path: "escape" }), /symbolic links/);
+  await assert.rejects(run({ operation: "search", query: ".*", command: "rm -rf ." }), /Use list/);
+  await assert.rejects(run({ operation: "find", query: "x", limit: 0 }), /Use list/);
+  const aborted = new AbortController(); aborted.abort();
+  await assert.rejects(tool.execute("cancelled", { operation: "list" }, aborted.signal));
+  assert.equal(await fs.readFile(path.join(base, "outside.txt"), "utf8"), "secret literal .* text");
+  console.log("PASS project queries: discovery, literal search, bounds, containment and cancellation");
+} finally { await fs.rm(base, { recursive: true, force: true }); }

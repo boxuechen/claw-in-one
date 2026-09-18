@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="fixture_smoke_increment" type="id" />
+  <item name="fixture_task_name" type="id" />
+  <item name="fixture_verification_toggle" type="id" />
+  <item name="fixture_next" type="id" />
+  <item name="fixture_project_list" type="id" />
+  <item name="fixture_selection_status" type="id" />
+  <item name="fixture_project_20" type="id" />
+  <item name="fixture_submit" type="id" />
+  <item name="fixture_result" type="id" />
+</resources>

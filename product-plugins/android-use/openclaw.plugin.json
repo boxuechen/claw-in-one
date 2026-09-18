@@ -1,0 +1,17 @@
+{
+  "id": "claw-in-one-android-use",
+  "name": "ClawInOne Android Use",
+  "description": "Controls an exact installed Android app on the main display or VScreen through the paired phone.",
+  "activation": {
+    "onStartup": true
+  },
+  "contracts": {
+    "tools": [
+      "android_use"
+    ]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}

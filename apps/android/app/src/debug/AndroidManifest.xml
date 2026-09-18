@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <!-- Compose/Robolectric needs a generic host; the app theme keeps AppCompat dialog tests valid. -->
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="false"
+            android:theme="@style/Theme.OpenClawNode" />
+    </application>
+</manifest>

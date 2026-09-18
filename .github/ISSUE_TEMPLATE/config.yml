@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/boxuechen/claw-in-one/security/advisories/new
+    about: Privately report vulnerabilities or leaked credentials.

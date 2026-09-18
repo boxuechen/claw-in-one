@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="android_development_title">Android 开发</string>
+    <string name="android_development_connection">开发连接</string>
+    <string name="android_development_saved">配对已保存。开启无线调试后，手机会在已允许的网络上自动重连。新聊天无需重新配对。</string>
+    <string name="android_development_wireless_help">无线调试帮助</string>
+    <string name="android_development_hide_wireless_help">收起无线调试帮助</string>
+    <string name="android_development_network_title">一次允许当前网络</string>
+    <string name="android_development_network_body">使用你信任的 Wi-Fi 时，在系统无线调试弹窗中勾选「始终允许在此网络上进行调试」，再点「允许」。系统会记住当前网络；更换网络时可能再次询问。端口变化无需重新授权。</string>
+    <string name="android_development_offline">手机连接已断开</string>
+    <string name="android_development_offline_hint">配对仍然保留。开启 Wi-Fi 和无线调试后，可自动恢复连接。也可以先点「重新连接」，无需立即填写地址。</string>
+    <string name="android_development_manual">手动输入地址</string>
+    <string name="android_development_hide_manual">收起手动连接</string>
+    <string name="android_development_manual_hint">填写「无线调试」页面上的 IP 地址和端口，不是配对码弹窗里的端口。无需新的配对码。</string>
+    <string name="android_development_address_placeholder">IP 地址:端口</string>
+    <string name="android_development_address">设备地址</string>
+    <string name="android_development_connect_address">连接此地址</string>
+    <string name="android_development_developer_options">打开开发者选项</string>
+    <string name="android_development_pair_once">手机只需配对一次</string>
+    <string name="android_development_pair_steps">1. 打开「无线调试」，点「使用配对码配对设备」。\n2. 保持系统配对弹窗打开，下拉通知栏。\n3. 在「配对此手机」通知中回复 IPv4 地址和配对码，中间用空格分隔。</string>
+    <string name="android_development_start_pairing">开始配对</string>
+    <string name="android_development_forget">忘记开发连接</string>
+</resources>

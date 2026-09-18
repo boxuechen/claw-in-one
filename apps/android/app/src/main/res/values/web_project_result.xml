@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="web_result_open">Open in Chrome</string>
+    <string name="web_result_opening">Opening Chrome…</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="approval_denied">已拒绝</string>
+    <string name="approval_cancelled">已取消</string>
+    <string name="approval_run_command">运行这条命令？</string>
+    <string name="approval_review_action">审批操作</string>
+    <string name="approval_checking_decision">正在确认审批结果…</string>
+    <string name="approval_sending_decision">正在提交审批…</string>
+    <string name="approval_checking_expiry">正在确认是否过期…</string>
+    <string name="approval_allowed_result">已允许。操作是否成功请查看任务结果。</string>
+    <string name="approval_check_status">检查状态</string>
+    <string name="approval_close_details">关闭审批详情</string>
+    <string name="approval_unavailable">此审批暂不可用，请先确认状态再继续。</string>
+</resources>

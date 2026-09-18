@@ -1,0 +1,33 @@
+DevKit brand assets
+
+Android robot head
+Source: https://developer.android.com/distribute/marketing-tools/brand-guidelines
+The Android robot is reproduced from work created and shared by Google and used
+according to terms described in the Creative Commons 3.0 Attribution License.
+Android is a trademark of Google LLC. Use does not imply endorsement.
+
+Flutter logo
+Source: https://flutter.dev/brand
+Flutter and the related logo are trademarks of Google LLC. The official logomark
+is reproduced without modification according to the Flutter brand guidelines.
+Use does not imply endorsement.
+
+Godot Engine icon
+Source: https://godotengine.org/press/
+Copyright (c) 2014-present Godot Engine contributors.
+The Godot Engine logo is licensed under the Creative Commons Attribution 4.0
+International License: https://creativecommons.org/licenses/by/4.0/
+Godot is a trademark of the Godot Foundation. Use does not imply endorsement.
+
+Kotlin icon
+Source: https://kotlinlang.org/docs/kotlin-logo.html
+Asset source revision: JetBrains/kotlin-web-site@20b7c7c3e527c30a2e876f411e29da297353140b
+Kotlin and the Kotlin logo are trademarks of the Kotlin Foundation. The official
+icon is reproduced without modification. Use does not imply endorsement.
+
+React Native logo
+Source: https://github.com/react/react-native-website/blob/87aac334d11b78bdf88897655e9bf40a440ccc27/website/static/img/header_logo.svg
+The react-native-website repository is licensed under the MIT License.
+Copyright (c) Meta Platforms, Inc. and affiliates.
+React Native and its logo are marks of their respective owners. The official site
+logo is reproduced without modification. Use does not imply endorsement.

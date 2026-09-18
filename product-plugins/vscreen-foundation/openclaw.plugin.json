@@ -1,0 +1,12 @@
+{
+  "id": "claw-in-one-vscreen-foundation",
+  "name": "ClawInOne VScreen Foundation",
+  "description": "Internal global display, authenticated transport, and direct-human input foundation.",
+  "activation": {
+    "onStartup": true
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "profileId": "android-native-vulkan-v1",
+  "generation": 1,
+  "jdk": "21",
+  "androidPlatform": "37.0",
+  "androidBuildTools": "37.0.0",
+  "minSdk": 31,
+  "targetSdk": 37,
+  "gradle": "9.7.1",
+  "androidGradlePlugin": "9.3.1",
+  "androidNdk": "29.0.14206865",
+  "cmake": "3.22.1",
+  "abi": "arm64-v8a",
+  "maxGradleWorkers": 2,
+  "starter": "native-activity-vulkan"
+}

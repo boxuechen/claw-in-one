@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Android Use Fixture</string>
+  <string name="form_title">Android Use 验证</string>
+  <string name="task_name_label">任务名称</string>
+  <string name="task_name_hint">输入任务名称</string>
+  <string name="verification_toggle">启用验证</string>
+  <string name="next">下一步</string>
+  <string name="task_name_required">请输入任务名称</string>
+  <string name="list_title">选择测试项目</string>
+  <string name="selection_empty">尚未选择项目</string>
+  <string name="selection_format">已选择：项目 %1$d</string>
+  <string name="project_format">项目 %1$d</string>
+  <string name="submit">提交</string>
+  <string name="selection_required">请先选择项目</string>
+  <string name="result_title">执行结果</string>
+  <string name="result_pending">正在生成结果…</string>
+  <string name="verification_on">开启</string>
+  <string name="verification_off">关闭</string>
+</resources>

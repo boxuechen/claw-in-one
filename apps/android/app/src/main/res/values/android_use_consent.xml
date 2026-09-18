@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 supports English and Simplified Chinese; other locales fall back to English. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="android_use_disabled">Android Use is off.</string>
+    <string name="android_use_all_chats">Enabled for current and future Chats.</string>
+    <string name="android_use_enable_title">Enable Android Use?</string>
+    <string name="android_use_consent_disclosure">Allow current and future Chats to view and operate apps on this phone when you ask. Screens and content may be sent to your configured model. You can stop a task or disable Android Use at any time. APK installation has separate authorization.</string>
+    <string name="android_use_allow_enable">Allow and enable</string>
+    <string name="android_use_accessibility_repair">Open Accessibility settings</string>
+</resources>

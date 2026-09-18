@@ -1,0 +1,21 @@
+; Godot Engine project configuration file.
+config_version=5
+
+[application]
+
+config/name="__PROJECT_NAME__"
+config/icon="res://icon.svg"
+run/main_scene="res://main.tscn"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/stretch/mode="canvas_items"
+window/handheld/orientation=1
+
+[rendering]
+
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+environment/defaults/default_clear_color=Color(0.008, 0.012, 0.03, 1)

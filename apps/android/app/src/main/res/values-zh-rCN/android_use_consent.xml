@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_use_disabled">Android Use 已关闭。</string>
+    <string name="android_use_all_chats">已允许当前和未来的所有聊天使用。</string>
+    <string name="android_use_enable_title">启用 Android Use？</string>
+    <string name="android_use_consent_disclosure">启用后，允许当前和未来的所有聊天根据你的指令查看和操作这台手机上的应用。相关画面和内容可能发送给你配置的模型。你可以随时停止任务或关闭 Android Use。安装 APK 使用独立授权。</string>
+    <string name="android_use_allow_enable">允许并启用</string>
+    <string name="android_use_accessibility_repair">前往无障碍设置</string>
+</resources>
