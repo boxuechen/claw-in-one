@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="web_result_open">在 Chrome 中打开</string>
+    <string name="web_result_opening">正在打开 Chrome…</string>
+</resources>

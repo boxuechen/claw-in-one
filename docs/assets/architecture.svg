@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">ClawInOne same-device architecture</title>
+  <desc id="desc">One Android phone contains the ClawInOne app, Android apps, and an AVF Debian virtual machine running upstream OpenClaw.</desc>
+  <style>
+    .surface { fill: #090b12; }
+    .panel { fill: #111827; stroke: #475569; stroke-width: 2; }
+    .phone { fill: none; stroke: #94a3b8; stroke-width: 2.5; }
+    .runtime { fill: none; stroke: #64748b; stroke-width: 1.5; stroke-dasharray: 7 7; }
+    .claw { fill: #211114; stroke: #ff4d4f; stroke-width: 3; }
+    .vm { fill: #092027; stroke: #22d3ee; stroke-width: 3; }
+    .line { fill: none; stroke: #94a3b8; stroke-width: 2; }
+    .accent { fill: none; stroke: #ff4d4f; stroke-width: 2.5; }
+  </style>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+    </marker>
+    <marker id="red-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ff3b3b"/>
+    </marker>
+  </defs>
+
+  <rect class="surface" x="1" y="1" width="998" height="618" rx="28"/>
+  <rect class="phone" x="30" y="30" width="940" height="560" rx="28"/>
+  <g font-family="Arial, sans-serif">
+  <text fill="#f8fafc" x="60" y="70" font-size="24" font-weight="700">One Android phone</text>
+  <text fill="#94a3b8" x="940" y="69" text-anchor="end" font-size="15">no root · no PC · no remote OpenClaw host</text>
+
+  <rect class="runtime" x="55" y="95" width="890" height="285" rx="22"/>
+  <text fill="#94a3b8" x="80" y="125" font-size="15" font-weight="600">Android runtime</text>
+
+  <rect class="claw" x="80" y="145" width="350" height="190" rx="20"/>
+  <text fill="#f8fafc" x="110" y="185" font-size="23" font-weight="700">ClawInOne App</text>
+  <text fill="#94a3b8" x="110" y="220" font-size="17">Chat · Terminal</text>
+  <text fill="#94a3b8" x="110" y="250" font-size="17">VScreen · Android Use</text>
+  <text fill="#94a3b8" x="110" y="280" font-size="17">Guided setup · Recovery</text>
+
+  <rect class="panel" x="570" y="145" width="350" height="190" rx="20"/>
+  <text fill="#f8fafc" x="600" y="185" font-size="23" font-weight="700">Android apps</text>
+  <text fill="#94a3b8" x="600" y="225" font-size="17">Apps built by OpenClaw</text>
+  <text fill="#94a3b8" x="600" y="255" font-size="17">Existing installed apps</text>
+
+  <path class="accent" d="M 430 240 L 570 240" marker-start="url(#red-arrow)" marker-end="url(#red-arrow)"/>
+  <text fill="#f8fafc" x="500" y="214" text-anchor="middle" font-size="14">present · observe · operate</text>
+
+  <rect class="vm" x="180" y="430" width="640" height="120" rx="20"/>
+  <text fill="#f8fafc" x="215" y="470" font-size="23" font-weight="700">Android AVF · Debian VM</text>
+  <text fill="#94a3b8" x="215" y="505" font-size="17">Upstream OpenClaw Gateway</text>
+  <text fill="#94a3b8" x="215" y="530" font-size="16">Supervisor · development toolchains · profiles</text>
+
+  <path class="line" d="M 255 335 L 255 390 Q 255 410 275 430" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text fill="#f8fafc" x="275" y="402" font-size="14">local OpenClaw connection</text>
+
+  <path class="line" d="M 700 430 Q 745 405 745 335" marker-end="url(#arrow)"/>
+  <text fill="#f8fafc" x="760" y="402" font-size="14">build · install · launch</text>
+  </g>
+</svg>

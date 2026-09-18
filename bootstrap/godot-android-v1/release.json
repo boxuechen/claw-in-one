@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "profileId": "godot-android-v1",
+  "generation": 1,
+  "godotVersion": "4.7.2",
+  "godotBuild": "stable.official.ed1daf0bf",
+  "targetPlatform": "android-arm64",
+  "renderer": "mobile",
+  "customBuild": false,
+  "starter": "interactive-3d-gdscript"
+}

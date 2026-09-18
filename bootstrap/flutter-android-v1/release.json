@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "profileId": "flutter-android-v1",
+  "generation": 2,
+  "flutterVersion": "3.47.4",
+  "dartVersion": "3.13.3",
+  "frameworkRevision": "9584c6713b324636289d067944a46fd6b49df14b",
+  "engineRevision": "06a2e2a110089dff50fe635cffd2a61e1b24fbcd",
+  "androidPlatform": "36",
+  "androidNdk": "28.2.13676358",
+  "targetPlatform": "android-arm64",
+  "maxGradleWorkers": 1,
+  "starter": "flutter-empty-material"
+}

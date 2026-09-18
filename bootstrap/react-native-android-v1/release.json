@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "profileId": "react-native-android-v1",
+  "generation": 1,
+  "reactNativeVersion": "0.87.1",
+  "reactVersion": "19.2.3",
+  "communityCliVersion": "20.2.0",
+  "nodeVersion": "22.22.0",
+  "npmVersion": "10.9.4",
+  "gradleVersion": "9.4.1",
+  "androidGradlePluginVersion": "9.2.1",
+  "androidPlatform": "37.0",
+  "androidBuildTools": "37.0.0",
+  "androidNdk": "27.1.12297006",
+  "cmake": "3.22.1",
+  "hermesCompilerVersion": "250829098.0.17",
+  "hermesCompilerSha256": "925ddf1bc2f17578e8af5df391c9d84dbd98441540fb43257aac3ef75c54b749",
+  "packageLockSha256": "d744de5615820ff5edf7b6f1713ee09d22762f63223d1dc8131244a142fa510c",
+  "abi": "arm64-v8a",
+  "newArchitecture": true,
+  "hermes": true,
+  "metroRequired": false
+}

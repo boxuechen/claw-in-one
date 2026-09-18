@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 supports English and Simplified Chinese; other locales use English. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="permission_title">聊天权限</string>
+    <string name="chat_stopping">正在停止此聊天…</string>
+    <string name="chat_stop_check">检查停止状态</string>
+    <string name="chat_stop_retry">停止此聊天</string>
+    <string name="chat_stop_permissions">停止并检查权限</string>
+    <string name="permission_scope">为当前 Chat 选择一次，后续修改继续沿用，直到你主动更改。</string>
+    <string name="permission_default_hint">遵循 Agent 当前配置的权限策略。</string>
+    <string name="permission_readonly_hint">可读取会话根目录；禁止写入文件和执行命令。</string>
+    <string name="permission_standard_hint">可读写会话根目录；超出范围的请求需要人工审核。</string>
+    <string name="permission_workspace_hint">可读写会话根目录；超出范围的请求由 AI 审核。</string>
+    <string name="permission_full_hint">无需审核即可使用文件和命令；Android Use 与系统权限仍然独立。</string>
+    <string name="permission_admin_required">需要管理员权限。</string>
+    <string name="permission_standard">标准访问</string>
+    <string name="permission_full">完全访问</string>
+    <string name="permission_default">默认权限</string>
+    <string name="permission_readonly">只读访问</string>
+    <string name="permission_workspace">工作区权限</string>
+    <string name="permission_applying">正在应用权限…</string>
+    <string name="permission_unconfirmed">权限尚未确认。请先停止任务，再检查状态。</string>
+    <string name="permission_changed">此聊天已发生变化，请核对当前权限后重新选择。</string>
+    <string name="permission_authority">当前连接没有更改此权限的授权。</string>
+    <string name="permission_unsupported">当前运行环境不支持聊天权限设置。</string>
+    <string name="permission_unavailable">权限状态不可用，请检查连接。</string>
+    <string name="permission_rejected">权限更改被拒绝，当前权限保持不变。</string>
+</resources>

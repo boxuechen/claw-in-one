@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="android_development_title">Android development</string>
+    <string name="android_development_connection">Development connection</string>
+    <string name="android_development_saved">Pairing is saved. With Wireless debugging on, this phone reconnects automatically on an allowed network. New Chats do not need pairing again.</string>
+    <string name="android_development_wireless_help">Wireless debugging help</string>
+    <string name="android_development_hide_wireless_help">Hide wireless debugging help</string>
+    <string name="android_development_network_title">Allow this network once</string>
+    <string name="android_development_network_body">In Android\'s Wireless debugging prompt, select Always allow on this network, then Allow for a Wi-Fi network you trust. Android remembers that network; a different network may ask again. Changing ports does not require this permission again.</string>
+    <string name="android_development_offline">This phone is offline</string>
+    <string name="android_development_offline_hint">Your pairing is saved. Turn on Wi-Fi and Wireless debugging; the saved connection can reconnect automatically. Try Reconnect before entering an address.</string>
+    <string name="android_development_manual">Enter address manually</string>
+    <string name="android_development_hide_manual">Hide manual connection</string>
+    <string name="android_development_manual_hint">Use the IP address and port on the Wireless debugging page, not the pairing-code dialog. No new pairing code is needed.</string>
+    <string name="android_development_address_placeholder">IP address:port</string>
+    <string name="android_development_address">Device address</string>
+    <string name="android_development_connect_address">Connect to address</string>
+    <string name="android_development_developer_options">Open Developer options</string>
+    <string name="android_development_pair_once">Pair this phone once</string>
+    <string name="android_development_pair_steps">1. Open Wireless debugging and tap Pair device with pairing code.\n2. Keep Android\'s pairing dialog open and pull down notifications.\n3. Reply to Pair this phone with the IPv4 address and code, separated by a space.</string>
+    <string name="android_development_start_pairing">Start pairing</string>
+    <string name="android_development_forget">Forget development connection</string>
+</resources>

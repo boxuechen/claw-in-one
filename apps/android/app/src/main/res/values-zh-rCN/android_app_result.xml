@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_result_open">打开 App</string>
+    <string name="android_result_opening">正在打开…</string>
+</resources>

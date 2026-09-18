@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 ships English and Simplified Chinese; other locales use English, as with extensions. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="terminal_reauthorize">Terminal authorization expired. Reconnect to continue.</string>
+    <string name="terminal_connect">Connect OpenClaw to use the terminal</string>
+    <string name="terminal_paste">Paste</string>
+    <string name="terminal_local_service">Local service</string>
+    <string name="terminal_responding">Responding</string>
+    <string name="terminal_not_checked">Not checked</string>
+    <string name="terminal_last_known">Last known state</string>
+    <string name="terminal_service_unreachable">Unable to reach local service</string>
+    <string name="terminal_not_paired">Local service is not paired</string>
+    <string name="terminal_check_again">Check again</string>
+    <string name="terminal_start">Start OpenClaw</string>
+    <string name="terminal_retry">Retry installation</string>
+    <string name="terminal_system">Open system Terminal</string>
+    <string name="terminal_offline_help">A connection failure does not mean Linux has stopped. Check the local service or open system Terminal.</string>
+    <string name="terminal_installation">Installation</string>
+    <string name="terminal_current_component">Current component</string>
+    <string name="terminal_exit_code">Exit code</string>
+    <string name="terminal_following">Following the current operation…</string>
+    <string name="terminal_launch_failed">System Terminal could not be opened. Check that Linux is enabled in Developer options.</string>
+    <string name="terminal_last_response">Last response</string>
+    <string name="terminal_not_installed">OpenClaw is not installed</string>
+    <string name="terminal_preparing_setup">Preparing your setup</string>
+    <string name="terminal_download_runtime">Downloading the runtime</string>
+    <string name="terminal_prepare_runtime">Preparing the runtime</string>
+    <string name="terminal_download_openclaw">Downloading OpenClaw</string>
+    <string name="terminal_verify_openclaw">Verifying OpenClaw</string>
+    <string name="terminal_install_openclaw">Installing OpenClaw</string>
+    <string name="terminal_openclaw_ready">OpenClaw is ready</string>
+    <string name="terminal_setup_stopped">Setup stopped</string>
+    <string name="terminal_plan_rejected">Setup plan was rejected</string>
+    <string name="terminal_starting">Starting OpenClaw</string>
+    <string name="terminal_start_failed">OpenClaw could not be started</string>
+    <string name="terminal_preparing_terminal">Preparing terminal…</string>
+    <string name="terminal_auth_failed">Terminal authorization failed</string>
+    <string name="terminal_environment_help">Use the run environment to inspect the local service or open Android’s system Terminal.</string>
+    <string name="terminal_input">Terminal input</string>
+    <string name="terminal_keyboard">Keyboard</string>
+    <string name="terminal_selection_hint">Long press a line to select it.</string>
+    <string name="terminal_ended">This terminal session has ended.</string>
+    <string name="terminal_replaced">The previous shell was lost. A new shell is ready; no commands were replayed.</string>
+    <string name="terminal_unavailable">This Gateway has not enabled terminal access.</string>
+    <string name="terminal_new_shell">Open new shell</string>
+    <string name="terminal_continue_shell">Continue in new shell</string>
+    <string name="terminal_empty_clipboard">Clipboard is empty</string>
+    <string name="terminal_paste_title">Paste into terminal?</string>
+    <string name="terminal_paste_warning">This text contains line breaks or control characters and may execute commands.</string>
+</resources>

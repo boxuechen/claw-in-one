@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 supports English and Simplified Chinese; other locales use English. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="permission_title">Chat permissions</string>
+    <string name="chat_stopping">Stopping this chat…</string>
+    <string name="chat_stop_check">Check stop status</string>
+    <string name="chat_stop_retry">Stop this chat</string>
+    <string name="chat_stop_permissions">Stop and check permissions</string>
+    <string name="permission_scope">Choose once for this chat. The choice stays in effect for follow-up work until you change it.</string>
+    <string name="permission_default_hint">Follow the agent\'s configured permission policy.</string>
+    <string name="permission_readonly_hint">Read within the session root. Writing files and running commands are blocked.</string>
+    <string name="permission_standard_hint">Read and edit within the session root. Requests beyond it require human review.</string>
+    <string name="permission_workspace_hint">Read and edit within the session root. Requests beyond it require AI review.</string>
+    <string name="permission_full_hint">Use files and commands without a reviewer. Android Use and system permissions remain separate.</string>
+    <string name="permission_admin_required">Requires administrator access.</string>
+    <string name="permission_standard">Standard access</string>
+    <string name="permission_full">Full access</string>
+    <string name="permission_default">Default access</string>
+    <string name="permission_readonly">Read-only access</string>
+    <string name="permission_workspace">Workspace access</string>
+    <string name="permission_applying">Applying permissions…</string>
+    <string name="permission_unconfirmed">Permissions are not confirmed. Stop the task before checking again.</string>
+    <string name="permission_changed">This chat changed. Review its permissions before choosing again.</string>
+    <string name="permission_authority">This connection cannot change the requested permissions.</string>
+    <string name="permission_unsupported">This runtime does not expose chat permissions.</string>
+    <string name="permission_unavailable">Permissions unavailable. Check the connection.</string>
+    <string name="permission_rejected">The permission change was rejected. Current permissions are unchanged.</string>
+</resources>

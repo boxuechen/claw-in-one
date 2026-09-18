@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "profileId": "web-development-v1",
+  "generation": 1,
+  "nodeVersion": "22.22.0",
+  "npmVersion": "10.9.4",
+  "reactVersion": "19.3.0",
+  "reactDomVersion": "19.3.0",
+  "viteVersion": "8.3.0",
+  "typescriptVersion": "7.0.2",
+  "packageLockSha256": "13ec679d2f1972709f000107ef5b8e967c169cacbb76dd02b3f26f6ae007db21",
+  "host": "127.0.0.1",
+  "productionBuild": true,
+  "cdpRequired": false
+}

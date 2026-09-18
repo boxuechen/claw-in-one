@@ -1,0 +1,17 @@
+{
+  "id": "claw-in-one-project-workspaces",
+  "name": "ClawInOne Project Workspaces",
+  "description": "Creates canonical developer Projects, provides bounded workspace discovery, and enforces one active run per Project.",
+  "activation": {
+    "onStartup": true
+  },
+  "contracts": {
+    "tools": [
+      "project_query"
+    ]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}

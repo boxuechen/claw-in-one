@@ -1,0 +1,27 @@
+{
+  "id": "claw-in-one-android-developer-bridge",
+  "name": "ClawInOne Android Developer Bridge",
+  "description": "Connects the verified phone to bounded Android App Delivery and VScreen producer operations.",
+  "activation": {
+    "onStartup": true
+  },
+  "contracts": {
+    "tools": [
+      "android_app",
+      "android_project_build"
+    ]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "runtime": {
+        "type": "string",
+        "enum": ["android-avf"]
+      }
+    }
+  },
+  "skills": [
+    "./skills"
+  ]
+}

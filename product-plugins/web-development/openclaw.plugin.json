@@ -1,0 +1,11 @@
+{
+  "id": "claw-in-one-web-development",
+  "name": "ClawInOne Web Development",
+  "description": "Builds and serves the current Web Project through a bounded qualified profile.",
+  "activation": {"onStartup": true},
+  "contracts": {
+    "tools": ["web_project_build", "web_project_serve", "web_project_stop"]
+  },
+  "configSchema": {"type": "object", "additionalProperties": false},
+  "skills": ["./skills"]
+}

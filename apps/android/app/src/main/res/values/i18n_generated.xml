@@ -1,0 +1,612 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="native_2520d176c0b797f9" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"+%1$s / −%2$s"</string>
+    <string name="native_82654a3a590a68b8" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"%1$s%% used"</string>
+    <string name="native_769a190270490641" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"%1$s of %2$s MB · %3$s%%"</string>
+    <string name="native_53bd3b2bf92c799c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"%1$s could not be installed"</string>
+    <string name="native_9cdbe41596516350" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"10.0.0.2:12345 123456"</string>
+    <string name="native_5335d6e9696b7265" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"A selected Skill is no longer available. Remove it to continue."</string>
+    <string name="native_cf1fc980b39c677c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Access needs attention"</string>
+    <string name="native_d87cdf8aa30447b1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Acknowledged"</string>
+    <string name="native_c2d1e79ec9be9fb7" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Add %1$s to the chat input"</string>
+    <string name="native_32090f801c8792d0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Administrator access is required to configure AI."</string>
+    <string name="native_1118d311545c8880" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Agent override"</string>
+    <string name="native_11fb682be0a0233d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI"</string>
+    <string name="native_fdc6a595ad9adaaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI access"</string>
+    <string name="native_b8ce7e99cb85c969" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI and models"</string>
+    <string name="native_a34608662a618ee9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI is ready"</string>
+    <string name="native_5ee6097498602aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI setup continues when the local Gateway is connected."</string>
+    <string name="native_884396bfea7941e1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI setup needs attention"</string>
+    <string name="native_3394fd5088983e0a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI verification did not complete."</string>
+    <string name="native_5b39b36a695a44ad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Allow AI to inspect and operate Android when requested."</string>
+    <string name="native_1508190d5184e5c8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Allow notifications so the pairing dialog can stay open while you enter its details."</string>
+    <string name="native_1e42ecc7133df999" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Allow OpenClaw\'s local connection"</string>
+    <string name="native_1bb201d188352e9b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Allowed"</string>
+    <string name="native_d1fc488076b4a733" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Allowed models"</string>
+    <string name="native_d8c8d201a7bc7e58" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android access"</string>
+    <string name="native_6e4ce1b3c38d3cfc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android build environment"</string>
+    <string name="native_e714a18f5f294ccc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android could not complete that action. Check the current setup and try again."</string>
+    <string name="native_6845c40df3c34d26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android development needs attention"</string>
+    <string name="native_9f33eca278e39792" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android development setup"</string>
+    <string name="native_64881f8a5eadd404" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android development tools are unavailable"</string>
+    <string name="native_ca342854d3b55250" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android device connection"</string>
+    <string name="native_b8f44babf1e5cf94" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android device connection is unavailable"</string>
+    <string name="native_81ec8c1c71499727" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android device runtime"</string>
+    <string name="native_3e9ba0dae0ba832e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android did not provide consistent Linux environment information. Check again after returning to the app."</string>
+    <string name="native_22ab1dbdcfe3ef6e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android did not provide enough information. Check again after returning to the app."</string>
+    <string name="native_d8a777a67c51179a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Downloads is unavailable. Check device storage and try again."</string>
+    <string name="native_e39b382edc84430e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Kotlin"</string>
+    <string name="native_4ed8a25f9c266c99" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Kotlin development"</string>
+    <string name="native_8d6c86d28a9412b5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Native"</string>
+    <string name="native_3a5adbadad1b9d6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Native development"</string>
+    <string name="native_77acac72a00c1a9a" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android NDK %1$s"</string>
+    <string name="native_8cf463031a4575c5" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android platform %1$s"</string>
+    <string name="native_d86d3b6aecbc78b2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android reported inconsistent Linux environment information. Check again after a restart or system update."</string>
+    <string name="native_bcae9171a255079a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android SDK"</string>
+    <string name="native_dd1d1b2767618184" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android tools are unavailable"</string>
+    <string name="native_1485b25a840d1095" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use"</string>
+    <string name="native_4942a6b7c8c7b861" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use changed on this phone. Approve the updated capability before Chat can use it."</string>
+    <string name="native_0b1f847e17b80b01" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use ended"</string>
+    <string name="native_82dfb3fe3004398c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use is already active"</string>
+    <string name="native_0845e9b8bc15ab1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use is operating"</string>
+    <string name="native_d4ce49f1559dbd9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use is waiting"</string>
+    <string name="native_3dc4e9c75486fe00" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use needs attention"</string>
+    <string name="native_bc3de8c7077d7339" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Another OpenClaw restart is already in progress."</string>
+    <string name="native_a8ff920b4a6f66eb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Another OpenClaw setup is already in progress. Finish or cancel it, then try again."</string>
+    <string name="native_b2a3aa602762a782" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Answer"</string>
+    <string name="native_16f0ee47f993d627" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"API key"</string>
+    <string name="native_0d04bfeb7d64b71c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"App"</string>
+    <string name="native_8dfc47821655b239" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"App connection needs attention"</string>
+    <string name="native_6479c18550e1a252" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Applying AI configuration"</string>
+    <string name="native_7ffa3a109f432b4b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Applying configuration"</string>
+    <string name="native_d51e654ad2de09a8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Applying configuration…"</string>
+    <string name="native_cebb5a34d12621c0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Applying the selected model…"</string>
+    <string name="native_6d0ca72102dfcb44" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Approve Terminal\'s OpenClaw port-forwarding request, then return here and try again. The port is exposed only on this device."</string>
+    <string name="native_a497d9aba524b0dc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Auth profile override"</string>
+    <string name="native_85d7235317e76f4d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Authorize Android Use"</string>
+    <string name="native_405430d7dba5f7ff" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Authorize this phone"</string>
+    <string name="native_d817be13a8de129b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Bootstrap could not be prepared"</string>
+    <string name="native_a25c8e791f22167e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Bootstrap Protocol"</string>
+    <string name="native_8858bb8f7e359f46" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Bootstrap started"</string>
+    <string name="native_0ff61e383e393718" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Build Android apps with the pinned native ARM64 Flutter and Dart toolchain."</string>
+    <string name="native_d79dfc5e6f1b2a37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Build ARM64 Android apps with the pinned NDK, CMake, and Vulkan starter."</string>
+    <string name="native_07c33a5590f2e414" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Build React and TypeScript frontends with a bounded Node API server for Android Chrome."</string>
+    <string name="native_fb34d53a5799f86b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Build standalone ARM64 Android apps with pinned React Native, Developer Node, and Hermes."</string>
+    <string name="native_6e6af0d46a1ad735" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Built into ClawInOne"</string>
+    <string name="native_e641df9e990ee777" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Can\'t reach ClawHub. Check your connection and try again."</string>
+    <string name="native_c0bf75bd78bf9572" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Change"</string>
+    <string name="native_0d52a46062ccc5e4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Changing the default model"</string>
+    <string name="native_76e1ea0e95dbf787" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chat details"</string>
+    <string name="native_09c3e4caec5cfb04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chat name"</string>
+    <string name="native_6e30461935748f53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chat name could not be changed. Try again."</string>
+    <string name="native_d32044524174b97b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chat options"</string>
+    <string name="native_110f70a75f47e0d7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ChatGPT sign-in requires the Linux environment to reach OpenAI. Check its network or proxy, then try again."</string>
+    <string name="native_64a7478a3aac40f1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check Preview"</string>
+    <string name="native_ebb4b987190f8aee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check the connection, then try again."</string>
+    <string name="native_502e326ce032d102" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check the local runtime state before continuing."</string>
+    <string name="native_56a02cc9ad92c6c1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check the pairing details"</string>
+    <string name="native_20505ae18f100fa9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check the task state before continuing."</string>
+    <string name="native_2942e787a95cbec4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Check VScreen"</string>
+    <string name="native_0efd92a335901ac9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checked"</string>
+    <string name="native_4d1cb55c16f56fad" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking %1$s"</string>
+    <string name="native_031254b6821abc1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking a development component"</string>
+    <string name="native_7ab8ee1e7e345b66" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking configuration"</string>
+    <string name="native_2b0ed71bd135e28c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking configuration…"</string>
+    <string name="native_2c79189604a012a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking Flutter"</string>
+    <string name="native_ddff25776ce5de57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking Supervisor"</string>
+    <string name="native_d3cf4320225d8136" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking the local Gateway"</string>
+    <string name="native_c44915fb57ef1a15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking the new OpenClaw generation"</string>
+    <string name="native_2bb5196e207dcb04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking the phone…"</string>
+    <string name="native_f07e634f4c634d92" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking the Preview surface…"</string>
+    <string name="native_b2e37bb06c1f7d25" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking the selected component"</string>
+    <string name="native_d0b29c80e0626df4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking this device"</string>
+    <string name="native_ec963ffc911b8401" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Checking…"</string>
+    <string name="native_78a7ab5e314ab1a5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Choose a model"</string>
+    <string name="native_5265b4fca97f8c04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Choose a starting point, or describe your idea below."</string>
+    <string name="native_1c0bd7b35d7dd4e8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Choose how to use AI"</string>
+    <string name="native_437d3e0d34579dec" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Choose the tools to install in your private Linux environment. Setup finishes before you connect an AI model."</string>
+    <string name="native_443373ad0b9d685d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chromium"</string>
+    <string name="native_a2019fe71279ebb5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub"</string>
+    <string name="native_c83f43b4a448f76f" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub is busy. Try again in %1$s seconds."</string>
+    <string name="native_8a06d5fe50cb971a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub is busy. Try again shortly."</string>
+    <string name="native_c12b7414d48e1dac" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub is unavailable (HTTP %1$s)."</string>
+    <string name="native_c879f8647e54fbf4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub returned an invalid response."</string>
+    <string name="native_595b8d46a4da0c48" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne %1$s (%2$s)"</string>
+    <string name="native_ea20bca9f1274ea7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne cannot reach the Supervisor. Check again, or open system Terminal to inspect the Linux environment."</string>
+    <string name="native_0a29a0a700400162" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne could not publish the one-time Bootstrap. Check device storage and try again."</string>
+    <string name="native_f9807fc1a4b27e40" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne could not verify the local service. Make sure Linux is running and try again."</string>
+    <string name="native_5e801bdbc23e774d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne could not verify the one-time setup. Prepare a new Bootstrap and try again."</string>
+    <string name="native_441bc7c2d32eaee3" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne interface · %1$s"</string>
+    <string name="native_5b7eb6866bf66dab" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is an independent project based on OpenClaw."</string>
+    <string name="native_a2e3b65b590b6271" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is checking the phone\'s local service before opening Chat."</string>
+    <string name="native_2c91360f0bd1c945" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is checking the private Android development connection."</string>
+    <string name="native_48bfe98eb05b7da1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is confirming that Android\'s Linux environment is available."</string>
+    <string name="native_c6371e5eb4da98fd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is creating a private one-time connection to the Linux environment."</string>
+    <string name="native_261b819c64a71c32" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is establishing a private connection to the local Gateway."</string>
+    <string name="native_011d2a32ffe14a3b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is preparing the secure local-service handoff."</string>
+    <string name="native_1d0842b050debf3d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is ready"</string>
+    <string name="native_8342c2d37293375d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne is restoring the current sign-in step."</string>
+    <string name="native_ad15902e7cba85d0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne requires an ARM64 device for its local Linux development environment."</string>
+    <string name="native_2c6e7a1b0d72cf4d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne requires Android 15 or newer with the system Linux environment."</string>
+    <string name="native_8ce5486250b57a1c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne setup"</string>
+    <string name="native_296085dda1b08fe0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne verifies that the private Android tools reconnect to this exact phone."</string>
+    <string name="native_16e346ada166a432" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne will resume this setup after the new Gateway generation is ready."</string>
+    <string name="native_5137c8760c941186" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Clean"</string>
+    <string name="native_7063440335590b37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CLI backends"</string>
+    <string name="native_a13cc6cba468567e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CLI commands"</string>
+    <string name="native_7d8ab368210c5ae8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Close preview"</string>
+    <string name="native_2da15e4dad77d43f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Close Settings"</string>
+    <string name="native_08599e4fc69c0d6e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Close VScreen"</string>
+    <string name="native_96b2699668afd4c7" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CMake %1$s"</string>
+    <string name="native_b322b65227bc3ec9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Collapsed"</string>
+    <string name="native_9277cd050d5c3614" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Completion models"</string>
+    <string name="native_aa78976e2ce770e2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Component is ready"</string>
+    <string name="native_73712234a32ced3d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Component unavailable"</string>
+    <string name="native_c174a9afa1e3719f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Composer options"</string>
+    <string name="native_9042eee05ef65895" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Configuring the local Gateway"</string>
+    <string name="native_379be4376ece3103" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect an AI model"</string>
+    <string name="native_41f0a9b065c5ec57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect OpenClaw, then check the Project workspace again."</string>
+    <string name="native_99a02ddccd9a2e4a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect the gateway to inspect this Plugin."</string>
+    <string name="native_8023f8bfd6d29090" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect the gateway to load Plugins."</string>
+    <string name="native_3c6800da0aae4fa0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect the gateway to search ClawHub Plugins."</string>
+    <string name="native_7e89af1393267e38" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect the local service"</string>
+    <string name="native_a3d0fc0e576fddc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect the verified phone for app delivery and VScreen."</string>
+    <string name="native_7c4c793a874754aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect this phone"</string>
+    <string name="native_e0ddf7a6cd208571" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connect this phone to the local development runtime for app delivery and VScreen."</string>
+    <string name="native_9e6e2be6c06edb4b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connecting the app"</string>
+    <string name="native_9e3fab0a2cd5afea" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connecting the local service"</string>
+    <string name="native_1c0cf6b4577637a2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connecting to AI setup…"</string>
+    <string name="native_5a5eb5a13b4f00c2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connecting to OpenClaw"</string>
+    <string name="native_0794f42305359729" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Connecting to this phone…"</string>
+    <string name="native_a6e600a10fede40f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Context"</string>
+    <string name="native_3ad86c4816ad0234" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Context · %1$s%% used"</string>
+    <string name="native_31fbef162594de01" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Continue"</string>
+    <string name="native_54f19947592ebdfd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Continue with ChatGPT"</string>
+    <string name="native_ff5f8ab647a94374" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Continue without %1$s"</string>
+    <string name="native_0738c7aa32f64383" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Continue without this capability"</string>
+    <string name="native_3a250107420c1539" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Continuing setup…"</string>
+    <string name="native_0488acc63d8b5135" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Contracts"</string>
+    <string name="native_f1a9a6ac157dc7df" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Conversation access"</string>
+    <string name="native_9a01feecae675f2f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Copy command"</string>
+    <string name="native_b8e7644a03d09624" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Copy diagnostic info"</string>
+    <string name="native_282e5535b47ec5dd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Copy repair command"</string>
+    <string name="native_f0f755afea88944b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Copy response"</string>
+    <string name="native_33106a66d0568d64" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Core runtime · about 120 MB"</string>
+    <string name="native_db703329edd3477d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not authorize Android Use. Check the local environment and try again."</string>
+    <string name="native_e4bcff1c9a22620e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not cancel this setup session."</string>
+    <string name="native_025ea233e7ea5cdb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not change the default model."</string>
+    <string name="native_72a6020f57c2cab3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not continue this setup step."</string>
+    <string name="native_a70ef9447420334c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not copy the command"</string>
+    <string name="native_4131706f801df287" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not inspect this Plugin."</string>
+    <string name="native_3a37c2a781077f41" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not load AI models."</string>
+    <string name="native_01a93c58bd87ac9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not load AI setup choices."</string>
+    <string name="native_f1225286fc817e6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not load Plugins."</string>
+    <string name="native_bf57dc5b91b86f2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not load the Plugin capability review."</string>
+    <string name="native_37c8b23e28ec17fd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not load this setup step."</string>
+    <string name="native_447bc194be2a1452" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not open the browser. Try again."</string>
+    <string name="native_f909010d74711b6d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not preserve this setup session. Try again."</string>
+    <string name="native_1a6dcb0f1dbfae1f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not refresh the Plugin catalog. Reconnect and try again."</string>
+    <string name="native_ab7aed227d545b26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not search ClawHub Plugins."</string>
+    <string name="native_7eebef07cd9e1dd5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Could not start this setup step."</string>
+    <string name="native_71bb4bfbead4618d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Create interactive 3D Android games with pinned native ARM64 Godot and export templates."</string>
+    <string name="native_fa67e4d0dae58c3c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Create project"</string>
+    <string name="native_c79ed9492e3c1719" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Creating…"</string>
+    <string name="native_60acc53f13a5d1bf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Dark"</string>
+    <string name="native_ea41ce78ec474bbb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Debian connected"</string>
+    <string name="native_dc56dd2687a38aaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Declared"</string>
+    <string name="native_3840d9d29421c46c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Default model"</string>
+    <string name="native_9c24f45a7ea9e466" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Dev"</string>
+    <string name="native_b5da301ab16e4247" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Developer environment"</string>
+    <string name="native_005e2e6ea55db249" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Developer Node %1$s"</string>
+    <string name="native_85acd1818e25db70" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Developer options are off"</string>
+    <string name="native_6ad139fdc6cac4a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Developer Ready"</string>
+    <string name="native_4df2c9a932900e6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Development component is ready"</string>
+    <string name="native_e8e6bc013bc95a29" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Development connection is unavailable"</string>
+    <string name="native_8addd631aabb5041" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Development environment"</string>
+    <string name="native_48c2281d5652a6dc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Development stacks"</string>
+    <string name="native_6ba0bdeccb426d7b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Device"</string>
+    <string name="native_ae58aa7330e0ccbc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Device capabilities"</string>
+    <string name="native_8cf745e55e22bc67" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Device compatibility could not be confirmed"</string>
+    <string name="native_ef44ccbb890b05e1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Device needs attention"</string>
+    <string name="native_cfa8d09c323fd520" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"DevKit"</string>
+    <string name="native_fb7bdec372eeef3f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Disabling…"</string>
+    <string name="native_37b345555d7ea6c1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Downloading"</string>
+    <string name="native_aea64410d3e2a9d4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Downloading a development component"</string>
+    <string name="native_dc138cce68c398ba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Downloading Flutter"</string>
+    <string name="native_387a5a7e6daceec7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Downloading the selected component"</string>
+    <string name="native_2922ffdb60a34fd6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Enable Linux development environment. USB debugging is not needed; Wireless debugging comes later."</string>
+    <string name="native_e22c24238eb035dd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Enabling…"</string>
+    <string name="native_c97006ea9ed83e9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Enter Chat"</string>
+    <string name="native_5f1fd0586c0538fc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Enter pairing details"</string>
+    <string name="native_9e471951a1b4106e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Environment"</string>
+    <string name="native_e72d5d8d0b167d21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Expanded"</string>
+    <string name="native_0f04ab16e24ad491" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Expires in %1$s minutes"</string>
+    <string name="native_0441b4a72916388a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Explicitly allowed"</string>
+    <string name="native_2f1bba53d9a99012" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Explicitly denied"</string>
+    <string name="native_f281a34a3982ada5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Finish creating the first Workspace Chat"</string>
+    <string name="native_41913a91143e3cc7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Finish preview"</string>
+    <string name="native_bc01ae77f37cf304" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Finish setup"</string>
+    <string name="native_6e06d26442b0e405" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Finishing setup…"</string>
+    <string name="native_47e17128395595fb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Finishing…"</string>
+    <string name="native_c903759742b75021" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter"</string>
+    <string name="native_80f9ccd1bc6ff135" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter Android development"</string>
+    <string name="native_7abbe4dfdb2b443e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter development"</string>
+    <string name="native_402d3d54d1747b30" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter is ready"</string>
+    <string name="native_3d4c4196f4fef3e6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter SDK"</string>
+    <string name="native_f6652b95c216acf3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter, native ARM64 Dart, Android artifacts, and NDK · about 4–5 GB"</string>
+    <string name="native_b5f861de55b29c2a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Forget development connection?"</string>
+    <string name="native_f935bf31caf8e3a9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Forgetting…"</string>
+    <string name="native_b2e2516d28f59310" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Gateway did not start"</string>
+    <string name="native_c910d474dcd724bf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"General"</string>
+    <string name="native_711631d8b138a7e9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"GitHub source"</string>
+    <string name="native_69a1441758fc8aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot 4.7.2 ARM64 and Android export templates · about 1.4 GB"</string>
+    <string name="native_b9a1e14ddbec1f83" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android"</string>
+    <string name="native_e02977950d7fb32b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android development"</string>
+    <string name="native_1c75f8e75c21ae89" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android export templates"</string>
+    <string name="native_769a2cab071a5b54" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Engine %1$s"</string>
+    <string name="native_5aed382b44c6858c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Gradle %1$s"</string>
+    <string name="native_d412a062620ef57b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Hooks"</string>
+    <string name="native_56d6f32151ad8474" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"HTTP"</string>
+    <string name="native_c3d80a4ed901ee05" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"https://example.com/mcp"</string>
+    <string name="native_14186e1c74948861" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"If automatic discovery does not work, enter the address shown on the Wireless debugging page."</string>
+    <string name="native_8777e3a9e3ec54a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Incompatible"</string>
+    <string name="native_cc7c7635efbef3a3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Install Chromium, ADB, VScreen support, Node, and OpenClaw in Linux."</string>
+    <string name="native_239b191b03914c53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Install environment"</string>
+    <string name="native_8c1194703ae138c6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Install or repair the optional Android Development pack from Local environment, then check again."</string>
+    <string name="native_cd8121009dfdca6a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Install selected tools"</string>
+    <string name="native_0062ba68caa63a07" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Install the pinned Kotlin, Compose, and Android build stack when needed."</string>
+    <string name="native_c1454f89fe4d198d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installation continues safely if you leave ClawInOne."</string>
+    <string name="native_24484322236c40eb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing a development component"</string>
+    <string name="native_a72c838d26b7f93d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing Flutter"</string>
+    <string name="native_42706ce40b4d875b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing the local service"</string>
+    <string name="native_771e34f96463d3df" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing the runtime"</string>
+    <string name="native_31337f36dc366323" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing the selected component"</string>
+    <string name="native_530bcc355f0a3cd6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Installing…"</string>
+    <string name="native_ad5ea6aae7ca18f5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Integrity"</string>
+    <string name="native_393377249d738e25" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Integrity type"</string>
+    <string name="native_96c34a0719eb565c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Invalid"</string>
+    <string name="native_8338ddee6062bfb1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Invalid configuration"</string>
+    <string name="native_b0e8a1a232e84ce9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"JDK 21, Android SDK 37, Kotlin, and Compose · about 2–3 GB"</string>
+    <string name="native_ff74d7fa5a234fc5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Keep Android\'s pairing dialog open, then reply here with its address and code."</string>
+    <string name="native_fdce8a976eae6f22" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Keep Android\'s pairing dialog open."</string>
+    <string name="native_05a57adce3e083f2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin Android development"</string>
+    <string name="native_6e1e22c81cf22156" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin tools, this phone, and Preview are verified. Opening a new Chat."</string>
+    <string name="native_80e2566381196661" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin tools, this phone, and Preview are verified. Opening New Project."</string>
+    <string name="native_d3f4f474fd62e2d1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin tools, this phone, and VScreen are verified. Opening New Project."</string>
+    <string name="native_fd1c91bdd07c6d26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Language model"</string>
+    <string name="native_dbcd5e7bb7a0f538" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Light"</string>
+    <string name="native_4828e60247c1636f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux"</string>
+    <string name="native_d99502da46b3e36e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux development environment is off"</string>
+    <string name="native_a206461da074ab1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux needs attention"</string>
+    <string name="native_660ab25bf5ab0990" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux setup stopped during %1$s (exit %2$s)."</string>
+    <string name="native_f65ddc1ff37bb18e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Live preview"</string>
+    <string name="native_ba8952efb4235257" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Live preview ended"</string>
+    <string name="native_54a4cbf747abe9f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Live preview unavailable"</string>
+    <string name="native_f11b9ad07823a2b2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Live preview. Open fullscreen"</string>
+    <string name="native_c9382e2ebe6e6f7f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Live preview. Restore"</string>
+    <string name="native_65d806aaee34e425" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Loading available sign-in methods…"</string>
+    <string name="native_21ac9e3a27f3c348" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Loading models from OpenClaw…"</string>
+    <string name="native_a5986e5e04f8f27f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Loading projects"</string>
+    <string name="native_fc24414b308ff6a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Loading review…"</string>
+    <string name="native_ba3bbbe10d8bef66" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Loading…"</string>
+    <string name="native_9b08984b3b3f6bf9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Local command"</string>
+    <string name="native_3762edbf57284c21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Local environment"</string>
+    <string name="native_20b98321b3a1909d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Local port is unavailable"</string>
+    <string name="native_69fd827a91bd2931" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Local runtime"</string>
+    <string name="native_e0a8d2fdd0d6809d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Local service is unavailable"</string>
+    <string name="native_5a23444828db654a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Manage"</string>
+    <string name="native_2b2fee11ba3315e2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Manage AI access and the default model."</string>
+    <string name="native_b2fae32fcb75c153" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Managed by DevKit"</string>
+    <string name="native_22a7559f09bf8f82" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"MCP servers"</string>
+    <string name="native_c3963aedaac6c83c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Memory"</string>
+    <string name="native_d90ac1c067691077" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Minimize VScreen"</string>
+    <string name="native_e87ce926a77f4068" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Model · %1$s"</string>
+    <string name="native_d29578d4fff831aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Model override"</string>
+    <string name="native_f8d46c2570e70736" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"More actions"</string>
+    <string name="native_35b3145b03b00dc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Name already exists. Choose another."</string>
+    <string name="native_24633bc0a768ee97" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Name and create this Project"</string>
+    <string name="native_98e890e0517af324" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"NDK, CMake, and an ARM64 Vulkan starter · about 2 GB"</string>
+    <string name="native_7cf56e8e701ac618" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Needs authorization"</string>
+    <string name="native_679766b52076e824" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Needs permission"</string>
+    <string name="native_4ed3689d9d350f08" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Needs repair"</string>
+    <string name="native_6526cf82b9741581" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"New Chat in %1$s"</string>
+    <string name="native_6f8d17646237f4f6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"New Project"</string>
+    <string name="native_545344acec2a78ba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Next preview"</string>
+    <string name="native_27e7713cfeff4403" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No matching chats"</string>
+    <string name="native_dcac648cae8c2341" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No matching projects or chats"</string>
+    <string name="native_f83c806522865605" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No projects yet"</string>
+    <string name="native_03dd642570444ed0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No recent chats"</string>
+    <string name="native_b5b9919d22a96ba2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No Skills available"</string>
+    <string name="native_2b54cb590dc70aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No Skills found"</string>
+    <string name="native_f309cee3735bc27e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"No usable models are available for this AI access method."</string>
+    <string name="native_c54da83e4f5f39af" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Node %1$s"</string>
+    <string name="native_d177cdc09a4ea3f3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Not installed"</string>
+    <string name="native_15133907259330da" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Not verified"</string>
+    <string name="native_1f579cdb9ebd32e5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Notifications are required only during the one-time development pairing flow."</string>
+    <string name="native_768908e20c0750ac" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Notifications are unavailable"</string>
+    <string name="native_7403888634b68dcb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"One-time local service setup"</string>
+    <string name="native_218a8bc874925467" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"One-time prompts used to pair the Linux development environment with this phone."</string>
+    <string name="native_61783cbd7decda10" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open About phone"</string>
+    <string name="native_56ca98d10502ed54" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open About phone, find Build number, and tap it seven times. Return here when Android confirms developer mode."</string>
+    <string name="native_9ac1dcbbb61e5fb6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open active Chat"</string>
+    <string name="native_b84a7dc03e31fe5f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open browser"</string>
+    <string name="native_8ec023a95c6dbe49" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open developer options"</string>
+    <string name="native_6d7cc6c260b0f6f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open environment"</string>
+    <string name="native_1bc4b3fa49d602ed" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open first setup preview"</string>
+    <string name="native_1f946d66362b3c61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open Licenses"</string>
+    <string name="native_c6885c8ebcb22d11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open notification settings"</string>
+    <string name="native_2e1e6c58f22b2505" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open system update"</string>
+    <string name="native_ae088e1416176bb9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open Terminal"</string>
+    <string name="native_d0d7e00e1d50a771" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open the global interactive Android screen."</string>
+    <string name="native_2eabc8d74697b819" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open VScreen"</string>
+    <string name="native_f37e18021a4a90b9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Open-source notices"</string>
+    <string name="native_7d3194f79e645c42" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"openai"</string>
+    <string name="native_6acd038e51c5158f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw activated a different model."</string>
+    <string name="native_04ffdd5433049c61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw completed setup without activating a model."</string>
+    <string name="native_6ea859adf278f051" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw completed sign-in without activating a model."</string>
+    <string name="native_544e71a572e9687d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw could not connect"</string>
+    <string name="native_0f3bf38114434a1f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw could not schedule this restart."</string>
+    <string name="native_57b445208a023c2c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw did not provide a default Agent."</string>
+    <string name="native_7d200226dcb24a14" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw environment"</string>
+    <string name="native_125e3dbef6b01fb2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is healthy inside Linux, but Android cannot reach its forwarded port. Reconnect first; system Terminal is available for forwarding settings."</string>
+    <string name="native_1a083e4cccc56978" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is not running"</string>
+    <string name="native_a213028b54cb592d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is offline"</string>
+    <string name="native_8f34b79a81197e43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is ready again"</string>
+    <string name="native_21ba13e4a15b9645" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is ready inside Linux. ClawInOne is waiting for the local forwarded port."</string>
+    <string name="native_00e8f870b2f6d9cb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is releasing the current task."</string>
+    <string name="native_cd0d7b819ac2c61c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw is testing the selected model."</string>
+    <string name="native_b53b41bedef54ece" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw needs attention"</string>
+    <string name="native_67074005627239af" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw offline"</string>
+    <string name="native_693c59cab77ed329" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw on one Android device"</string>
+    <string name="native_c5ad45a54bbca55b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw on one Android device."</string>
+    <string name="native_f6e6fea670efdb1a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw pairing failed"</string>
+    <string name="native_eca81a15f2ce8864" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw pairing is ready"</string>
+    <string name="native_39720a8628138803" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw restarted, but the Plugin status could not be verified. Refresh to check again."</string>
+    <string name="native_fc281b474555fba5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw Runtime"</string>
+    <string name="native_43078805dcd7279c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw update required"</string>
+    <string name="native_23790294a39b9c7f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw verified a different default model."</string>
+    <string name="native_945c52d588cbe81d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw will delete its private ADB credential. Android will require a new pairing code next time."</string>
+    <string name="native_f06b2e32f610b481" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Opening a new Chat."</string>
+    <string name="native_59be71333c960fd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Optional"</string>
+    <string name="native_93ad68a701dd09d2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Optional presentation unavailable"</string>
+    <string name="native_f97e9da0e3b879f0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Other"</string>
+    <string name="native_9c057c423ace494d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Other sign-in methods"</string>
+    <string name="native_b0545ee3486b14f4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pair again"</string>
+    <string name="native_774169de383a5efb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pair ClawInOne again"</string>
+    <string name="native_77e7ace33f1ad0ce" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pair this app again"</string>
+    <string name="native_8f85ec9dced65a7c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pair this phone"</string>
+    <string name="native_9d0e62d23d8c753e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pairing this phone…"</string>
+    <string name="native_0ab6490feae09679" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pairing was not completed"</string>
+    <string name="native_ec9f969d1008617a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Pairing…"</string>
+    <string name="native_cb636fbbf5a463a6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Parallel tools"</string>
+    <string name="native_63dceb8800b2dd4a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Phone"</string>
+    <string name="native_bd80ee721df3f50c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Phone offline"</string>
+    <string name="native_3c757ae9dda952a7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preferred"</string>
+    <string name="native_fa71d7e44cb2513b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Prepare ClawInOne"</string>
+    <string name="native_43002d98132b1b2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Prepare OpenClaw"</string>
+    <string name="native_7c8da1973e301aa4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing ClawInOne"</string>
+    <string name="native_3ca72c4b95b19c21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing Linux"</string>
+    <string name="native_ea850e67c122b395" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing OpenClaw"</string>
+    <string name="native_4d24a2f29a7fbaf0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing repair command…"</string>
+    <string name="native_46c47bcfcae70732" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing secure handoff"</string>
+    <string name="native_120de9abd0a28650" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing secure setup"</string>
+    <string name="native_455db8f888136182" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing workspace…"</string>
+    <string name="native_5d1fa38bcf0d88ca" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preparing…"</string>
+    <string name="native_8555b87244e05302" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview first setup"</string>
+    <string name="native_127d58af8204c338" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview is ready"</string>
+    <string name="native_21ecde11a45c8c71" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview is updating"</string>
+    <string name="native_b5ad7b1322c33248" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview needs attention"</string>
+    <string name="native_0560a8562a42bc88" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview only. Your device will not be changed."</string>
+    <string name="native_9a285c788725c847" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview retained"</string>
+    <string name="native_40c32625ec4d427d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Previous preview"</string>
+    <string name="native_9859597853197476" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project"</string>
+    <string name="native_5f4743eff7e70c4f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project created"</string>
+    <string name="native_14ac12baa6f4278d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project creation is unavailable"</string>
+    <string name="native_0059f77ced778839" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project creation was not confirmed"</string>
+    <string name="native_25498193b898195d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project name"</string>
+    <string name="native_065849549d0ad1f5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project name cannot contain path separators or control characters."</string>
+    <string name="native_ab7651ff98f45f64" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project name is required."</string>
+    <string name="native_5f72219d3d9217b4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Project name is too long."</string>
+    <string name="native_04e2a9728af75840" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Projects"</string>
+    <string name="native_b027ad47a6d84701" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Prompt injection"</string>
+    <string name="native_1cd07be18aed5105" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native"</string>
+    <string name="native_d69f70db2058913c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native %1$s"</string>
+    <string name="native_aaee1562aad6a522" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native Android development"</string>
+    <string name="native_8758fe6b0c6d0510" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native development"</string>
+    <string name="native_8c4793b0c1e684bd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native, Developer Node, Hermes, Gradle, and Android NDK · about 3–4 GB"</string>
+    <string name="native_ce0b748746595031" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React, TypeScript, Vite, and a Node API server · about 300 MB"</string>
+    <string name="native_72ed245d2cf11822" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reasons"</string>
+    <string name="native_a95f3744e7f9e9e8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnect before changing this Plugin."</string>
+    <string name="native_e738c0527cdcffa8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnect before refreshing the Plugin catalog."</string>
+    <string name="native_e9f0277b6d89a8b3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnect this phone"</string>
+    <string name="native_81f88eee51001964" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnect this phone to create a fresh Android Use authorization request."</string>
+    <string name="native_7aaac55f860f161b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnect with administrator access before restarting OpenClaw."</string>
+    <string name="native_61ffa3f74a85e305" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnecting to OpenClaw"</string>
+    <string name="native_fb28d9b802fe1e1a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reconnecting to OpenClaw…"</string>
+    <string name="native_565c21e5a6d73338" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Refresh needed"</string>
+    <string name="native_f92e2ad582c0e13f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Refreshing"</string>
+    <string name="native_1c0def7be0607b96" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Refreshing…"</string>
+    <string name="native_26e8d9b94b3a6d78" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Remove Skill @%1$s"</string>
+    <string name="native_d4b09919ec929f15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Removing…"</string>
+    <string name="native_26076241b3226d1d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Rename chat"</string>
+    <string name="native_40aef98da2aaafc0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Renaming…"</string>
+    <string name="native_0b9a187a0e4a4dad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Rendering a test frame…"</string>
+    <string name="native_70ad3b36debaeb72" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Repair Android development"</string>
+    <string name="native_6f364ad28b3a2983" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Repair environment"</string>
+    <string name="native_344e28cd93eede82" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Repair or update the local OpenClaw environment, then check again."</string>
+    <string name="native_e687aab4d01ab981" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Repair the OpenClaw environment in DevKit, then check again."</string>
+    <string name="native_637fcfc398afa3f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Repair the required Android development tools before entering Chat."</string>
+    <string name="native_4a561219519aff15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reply with the IPv4 pairing address and six-digit code, separated by a space."</string>
+    <string name="native_4850b174b713d88c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Required"</string>
+    <string name="native_bad2c3e30304b751" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Required environment"</string>
+    <string name="native_86cc6e5ec6a4573c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Resetting the connection…"</string>
+    <string name="native_fabf8544d694d4e5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Restart the private ADB connection once so the first development Chat can use this exact phone without setup."</string>
+    <string name="native_6ac7c01d958adf15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Restore the local engine connection, then check again."</string>
+    <string name="native_3c707e7b2b3d3da7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Retry OpenClaw"</string>
+    <string name="native_3589264d76faa905" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Return Android preview to floating"</string>
+    <string name="native_360195ee4551b669" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Return to active Chat"</string>
+    <string name="native_b590efdc075fb3d8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Return to ClawInOne and start again with a new pairing code."</string>
+    <string name="native_dde35afef103efba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Return to its Chat or stop it before starting another task."</string>
+    <string name="native_14ebe15a9147e50e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Review is stale"</string>
+    <string name="native_9834120e9c8adc4c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Review pending"</string>
+    <string name="native_6b75ef468bdebfb8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Review recommended"</string>
+    <string name="native_f0742e3a82fe8b57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Review required"</string>
+    <string name="native_f25c17d74655c783" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Reviewing"</string>
+    <string name="native_6b9eb649ccedd454" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Run this one-time command in Terminal."</string>
+    <string name="native_27f0d56fd3602b95" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Running Gateway"</string>
+    <string name="native_c42a95f16619498d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Runtime needs attention"</string>
+    <string name="native_9ccd9001faecf3b7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Runtime restored"</string>
+    <string name="native_1509f561f2416598" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Save"</string>
+    <string name="native_8abdf3b226e73179" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Search conversations"</string>
+    <string name="native_3423bcf1d8181d76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Search projects and chats"</string>
+    <string name="native_3ecba54187d7a792" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Searching chats"</string>
+    <string name="native_2a78025de6aae5e7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Select"</string>
+    <string name="native_6b76d397a856a867" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Selected capabilities are ready"</string>
+    <string name="native_e355798d7614a537" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Sensitive settings"</string>
+    <string name="native_4da10f1fbb17cac2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Set up"</string>
+    <string name="native_b0c832b02cd74c18" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Setting up %1$s"</string>
+    <string name="native_2410ec9cc12cb51f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Setup continues in Linux and resumes automatically if you leave the App."</string>
+    <string name="native_ea64726ddc9adc5d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Setup could not be completed."</string>
+    <string name="native_747f9d965b63fe43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Setup must finish before the next step. The local service continues safely if the App is closed and restores progress when you return."</string>
+    <string name="native_4fa1e7e8390b40b4" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Setup stopped while preparing %1$s (exit %2$s). Completed tools will not be installed again."</string>
+    <string name="native_e6d5bf2e2e0beeb5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Shared developer tools"</string>
+    <string name="native_bfd402b2f6f38125" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Sign in"</string>
+    <string name="native_fbff35798a3c4006" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Sign-in code"</string>
+    <string name="native_288685d3684c345a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Sign-in required"</string>
+    <string name="native_6698e455a1f78839" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Source package"</string>
+    <string name="native_028a758b1cfca596" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Source reference"</string>
+    <string name="native_5c89f37c9b97d693" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"SSE"</string>
+    <string name="native_54829566b213ed14" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Start a Full development Chat"</string>
+    <string name="native_0e364475713c4afc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Starting live preview"</string>
+    <string name="native_141f263beb20f7f3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Starting OpenClaw…"</string>
+    <string name="native_696abab0be63faeb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Starting setup…"</string>
+    <string name="native_ba11f182ec827206" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Starting the local Gateway"</string>
+    <string name="native_e973377129ae0558" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Starting the local service"</string>
+    <string name="native_6310ab83daf42e8d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Startup complete"</string>
+    <string name="native_6f32863b326fdbc6" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Step %1$s of %2$s"</string>
+    <string name="native_67291cb6597d6c11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Stop is not confirmed"</string>
+    <string name="native_faece8756e5a456f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Stop the current task before checking its workspace access."</string>
+    <string name="native_1a4f630ac1b69fd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Stopped"</string>
+    <string name="native_e885e4421e6a6afb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Streamable HTTP"</string>
+    <string name="native_d6cb4188b8fa57aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Subagent"</string>
+    <string name="native_9de790933254b865" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor"</string>
+    <string name="native_c7129458406a78ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor needs attention"</string>
+    <string name="native_cf4edea23fe5b355" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor, OpenClaw Gateway, and the app connection are all available."</string>
+    <string name="native_08508b814c4ce88d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Task needs attention"</string>
+    <string name="native_3c86be3eae40bb5f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Temporarily unavailable"</string>
+    <string name="native_20afb9018c53a9a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Terminal command"</string>
+    <string name="native_94c9182777d93dd2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Testing the connection…"</string>
+    <string name="native_068a2de4ec58ce6f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The change returned, but the refreshed Plugin catalog did not confirm it. Refresh again before retrying."</string>
+    <string name="native_76a5125d79dbbae0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The default model change did not apply."</string>
+    <string name="native_8a045e0dea0653ad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The default model outcome is unknown. Check OpenClaw before trying again."</string>
+    <string name="native_c092b6f76e824d5e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The key is sent once to OpenClaw and is not saved by Android."</string>
+    <string name="native_ed55ad2bc30152ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Linux environment did not respond in time. Make sure it is running and try again."</string>
+    <string name="native_146e0030b79f3aa0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway does not expose the required phone connection component."</string>
+    <string name="native_4eff855c2f712fc2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway is ready"</string>
+    <string name="native_d7332a3f4186744a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway is waiting for this phone to approve its Android Use capability."</string>
+    <string name="native_d78e9f914e466c4f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway pairing is ready"</string>
+    <string name="native_8d1e427449daff2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway pairing stopped"</string>
+    <string name="native_c864f1e6c6a2fb27" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway returned an invalid connection response. Try again."</string>
+    <string name="native_49c2e94f87bb57ae" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway stopped"</string>
+    <string name="native_4a8a78d4206f3e47" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local Gateway stopped with exit code %1$s. Try again."</string>
+    <string name="native_ac01bb72f5477f16" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local runtime is available."</string>
+    <string name="native_784e65701b89ff11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local runtime restarted with a new generation. Existing Chat state stayed in the app."</string>
+    <string name="native_c240c34d4aae701b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local service could not connect"</string>
+    <string name="native_96df518d32c4612f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local service is unavailable"</string>
+    <string name="native_4e3c480db45c976a" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local service rejected this setup plan (exit %1$s). Refresh its saved plan and try again."</string>
+    <string name="native_de605522946d931d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The local-service status channel is missing. Make sure Linux is running and try again."</string>
+    <string name="native_ed3dde11303369a8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The one-time setup session is missing. Prepare a new Bootstrap and run only the new command."</string>
+    <string name="native_0efe80e0fb2b8651" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Plugin change result is unknown. Reconnect and refresh before retrying."</string>
+    <string name="native_16d7b1f9b920c9d3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The previous default model could not be restored automatically."</string>
+    <string name="native_1cac5c2b39c22898" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The private test frame rendered successfully."</string>
+    <string name="native_39fa2f845da03072" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Project workspace could not be read."</string>
+    <string name="native_b16c5089c535873f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The refreshed catalog did not confirm the Plugin change. You can try again."</string>
+    <string name="native_f23cff0836e666b7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The repair command could not be prepared or system Terminal could not be opened."</string>
+    <string name="native_c0dffdf76cde17ac" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The required local runtime for OpenClaw, Chromium, ADB, and VScreen."</string>
+    <string name="native_a0329a4a890f9504" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The setup plan could not be accepted"</string>
+    <string name="native_e0869fcd7f7a9235" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Supervisor can prepare a new one-time setup code. ClawInOne will finish the Gateway pairing internally."</string>
+    <string name="native_7c061e9a7977c68f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Supervisor is connected, but the OpenClaw Gateway stopped during startup."</string>
+    <string name="native_e3a67bb490aeb5d4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The Supervisor is preparing the Gateway. You can follow each startup stage here."</string>
+    <string name="native_ab50d6e4230131b5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The system Linux Terminal component is unavailable. A system update may be required."</string>
+    <string name="native_198fbf3e69fd4526" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The workspace update could not be confirmed."</string>
+    <string name="native_2e2d07b7992a63d6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"The workspace update was rejected."</string>
+    <string name="native_0256c3336e1262e4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Theme and interface language."</string>
+    <string name="native_a20d12c5e9c428c3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Thinking"</string>
+    <string name="native_27c1d1f8614e1da0" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Thinking · %1$s"</string>
+    <string name="native_4f0f4edd169a4a83" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Thinking available"</string>
+    <string name="native_2f96f6713d7f83ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This AI setup choice is not supported by the connected Gateway."</string>
+    <string name="native_90f0ef4d8093c03d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This Chat changed. Check its workspace before continuing."</string>
+    <string name="native_7a9ca10301354fe0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This Chat will continue when its workspace is ready."</string>
+    <string name="native_1f432407782f9e5a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This connection cannot confirm the Project workspace."</string>
+    <string name="native_ccdfebaf73efcff7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This device cannot run ClawInOne"</string>
+    <string name="native_f14de22ed5db253f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This device does not provide Android\'s required virtualization capability."</string>
+    <string name="native_c5159a41861286b1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This gateway connection needs operator.admin to manage Plugins."</string>
+    <string name="native_80048f9b69795e22" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This Gateway does not allow that Plugin change."</string>
+    <string name="native_45a0196f1d75bdaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This item is not in the official catalog."</string>
+    <string name="native_36bfeae8f6b0f1a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This OpenClaw runtime cannot confirm Project workspace access."</string>
+    <string name="native_d180145321ca582f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This Project Chat is not bound to its workspace."</string>
+    <string name="native_a5d3dbf1289e2446" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This project is active in another Chat"</string>
+    <string name="native_55c51e463fd71b37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This setup requires the pinned OpenClaw 9.4 Gateway protocol."</string>
+    <string name="native_0fa597aae254c877" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This setup session expired. Start again."</string>
+    <string name="native_4a53427f1488b254" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This setup session is no longer available."</string>
+    <string name="native_20ae3a2b0aee752a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This sign-in lost authorization. Reconnect to OpenClaw and start again."</string>
+    <string name="native_cbbe214a96001fc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"This sign-in method is no longer available. Choose another method."</string>
+    <string name="native_ff4779f342368d5c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Tool filter"</string>
+    <string name="native_ea93d6a262ecb87a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Tools"</string>
+    <string name="native_39834a8e3b7ab327" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Tools unavailable"</string>
+    <string name="native_aff76ff52698d28d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Try Preview again"</string>
+    <string name="native_72988bb79e25d874" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Try VScreen again"</string>
+    <string name="native_ee85a3c049a5fada" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn developer options back on to restore the local environment. Your Projects and Chats are unchanged."</string>
+    <string name="native_a839350f08afad76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn on developer options"</string>
+    <string name="native_c5d054af8b7e3723" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn on the Linux environment"</string>
+    <string name="native_4962a7812c4a5c3c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn on Wi-Fi and Wireless debugging, allow the trusted network if Android asks, then reconnect the saved phone."</string>
+    <string name="native_bd6eb7fb1f668c2f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn on Wireless debugging, choose Pair device with pairing code, then reply to the ClawInOne notification with its address and code."</string>
+    <string name="native_dd7c2fcdad89ab43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Turn the Linux development environment back on. Your Projects and Chats are unchanged."</string>
+    <string name="native_ac364e1afdd79d8d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Ultra"</string>
+    <string name="native_ddb10b3e6718eaaa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Update OpenClaw"</string>
+    <string name="native_dae3a371b0787dd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Update OpenClaw to inspect Plugin capabilities."</string>
+    <string name="native_f266383c8c988b0f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Update OpenClaw to load Plugins."</string>
+    <string name="native_6e9e6c4f709c7d38" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Update OpenClaw to search ClawHub Plugins."</string>
+    <string name="native_ab089ec540ef6fdb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Update or repair the local OpenClaw installation to restore this product component."</string>
+    <string name="native_22e2bada8f1c65cd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Updates"</string>
+    <string name="native_dfe40efe921fe88e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Updating…"</string>
+    <string name="native_d0490d0465c688f0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Use an API key"</string>
+    <string name="native_3e19122b8fad60ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Use automatic name"</string>
+    <string name="native_4eb78265c7997c53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Use in Chat"</string>
+    <string name="native_0ffe3365f3960887" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verify reconnect"</string>
+    <string name="native_33334b3ed7ba7e5e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verify this phone"</string>
+    <string name="native_a7d4a9f301edaa61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying"</string>
+    <string name="native_fa10cfbe595c3cfc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying reconnect…"</string>
+    <string name="native_9cb66bff0b86aabc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying the installation"</string>
+    <string name="native_1a6bf2ad0f3319fc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying the private reconnect…"</string>
+    <string name="native_80a454fe6d567322" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying the runtime"</string>
+    <string name="native_be7a6168f4801734" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying your AI"</string>
+    <string name="native_9f065f0ccdfcdf0b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Verifying your AI model"</string>
+    <string name="native_551be8ef5f3255ae" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen"</string>
+    <string name="native_b44c0bf42e4dc5ce" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen is a private virtual screen for previewing and controlling apps without taking over your phone\'s main screen."</string>
+    <string name="native_3402b6ae501f0f57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen is ready"</string>
+    <string name="native_f1201a2cadb513ed" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen needs attention"</string>
+    <string name="native_346463ad895c0b30" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen runtime"</string>
+    <string name="native_24e7c0b3ecc18a93" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen unavailable"</string>
+    <string name="native_1ec7b7c222bce0f6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for current work to finish"</string>
+    <string name="native_1d3b5fe0f2f46f6a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for current work…"</string>
+    <string name="native_add9e52591ea4d76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for Debian"</string>
+    <string name="native_65dccc639550bc37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for Linux…"</string>
+    <string name="native_5a498f929b6f5cdf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for OpenClaw…"</string>
+    <string name="native_1913451b1b233c1c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting for the Terminal bootstrap"</string>
+    <string name="native_9e812de1fac258c9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Waiting to start the local Gateway"</string>
+    <string name="native_56f77b92bfb7547b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"web browsing"</string>
+    <string name="native_56aaa8a233c28251" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web dependencies %1$s"</string>
+    <string name="native_ac7878511967befc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web development"</string>
+    <string name="native_746c6626eb051ec0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web Development"</string>
+    <string name="native_43b1b81dbe5356bc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"What will you build?"</string>
+    <string name="native_d0ae49c36fc8e6be" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Working · %1$s"</string>
+    <string name="native_5474eef8d0f179c7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Working…"</string>
+    <string name="native_223d19cfee337f86" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Workspace access is not confirmed"</string>
+    <string name="native_b1733e7a4b2af46e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Workspace access is unavailable"</string>
+    <string name="native_bcf4ad75ff9e869c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Workspace access needs attention"</string>
+    <string name="native_0d83760d39bfe443" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Workspace Chat setup is still unavailable"</string>
+    <string name="native_5b6f972fe06cd67b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"You\'re ready"</string>
+    <string name="native_daf24b5826fea4cb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Your credentials stay inside OpenClaw in the private Linux environment."</string>
+    <string name="native_15119916134c6307" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Your message was not sent."</string>
+    <string name="native_cd9c0589df59a075" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Your private OpenClaw environment is ready."</string>
+</resources>

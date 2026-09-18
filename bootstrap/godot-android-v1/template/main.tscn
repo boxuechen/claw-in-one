@@ -1,0 +1,84 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://main.gd" id="1_script"]
+
+[sub_resource type="StandardMaterial3D" id="CubeMaterial"]
+albedo_color = Color(0.184, 0.773, 1, 1)
+metallic = 0.35
+roughness = 0.18
+
+[sub_resource type="BoxMesh" id="CubeMesh"]
+material = SubResource("CubeMaterial")
+size = Vector3(2.15, 2.15, 2.15)
+
+[sub_resource type="StandardMaterial3D" id="FloorMaterial"]
+albedo_color = Color(0.035, 0.055, 0.11, 1)
+metallic = 0.1
+roughness = 0.72
+
+[sub_resource type="PlaneMesh" id="FloorMesh"]
+material = SubResource("FloorMaterial")
+size = Vector2(14, 14)
+
+[sub_resource type="Environment" id="WorldEnvironment"]
+background_mode = 1
+background_color = Color(0.008, 0.012, 0.03, 1)
+ambient_light_source = 3
+ambient_light_color = Color(0.24, 0.34, 0.55, 1)
+ambient_light_energy = 0.75
+reflected_light_source = 2
+tonemap_mode = 2
+
+[node name="Hello3D" type="Node3D"]
+script = ExtResource("1_script")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("WorldEnvironment")
+
+[node name="Cube" type="MeshInstance3D" parent="."]
+mesh = SubResource("CubeMesh")
+
+[node name="Floor" type="MeshInstance3D" parent="."]
+position = Vector3(0, -1.35, 0)
+mesh = SubResource("FloorMesh")
+
+[node name="KeyLight" type="DirectionalLight3D" parent="."]
+rotation_degrees = Vector3(-48, -34, 0)
+light_color = Color(0.72, 0.86, 1, 1)
+light_energy = 2.2
+shadow_enabled = true
+
+[node name="WarmLight" type="OmniLight3D" parent="."]
+position = Vector3(-3.2, 2.8, 3.5)
+light_color = Color(1, 0.28, 0.12, 1)
+light_energy = 5.0
+omni_range = 9.0
+
+[node name="Camera3D" type="Camera3D" parent="."]
+position = Vector3(0, 2.7, 7.2)
+rotation_degrees = Vector3(-18, 0, 0)
+current = true
+
+[node name="Overlay" type="CanvasLayer" parent="."]
+
+[node name="Title" type="Label" parent="Overlay"]
+offset_left = 32.0
+offset_top = 38.0
+offset_right = 688.0
+offset_bottom = 118.0
+theme_override_colors/font_color = Color(0.88, 0.95, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.75)
+theme_override_constants/shadow_offset_x = 2
+theme_override_constants/shadow_offset_y = 2
+theme_override_font_sizes/font_size = 30
+text = "__PROJECT_NAME__\nGodot 3D · Android ARM64"
+
+[node name="Status" type="Label" parent="Overlay"]
+offset_left = 32.0
+offset_top = 1170.0
+offset_right = 688.0
+offset_bottom = 1230.0
+theme_override_colors/font_color = Color(0.72, 0.8, 0.92, 1)
+theme_override_font_sizes/font_size = 22
+text = "Tap anywhere to change color"
+horizontal_alignment = 1

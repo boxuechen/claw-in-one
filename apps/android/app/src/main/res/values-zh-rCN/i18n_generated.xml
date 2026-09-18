@@ -1,0 +1,612 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="native_2520d176c0b797f9" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"+%1$s / −%2$s"</string>
+    <string name="native_82654a3a590a68b8" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已使用 %1$s%%"</string>
+    <string name="native_769a190270490641" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"%1$s / %2$s MB · %3$s%%"</string>
+    <string name="native_53bd3b2bf92c799c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法安装 %1$s"</string>
+    <string name="native_9cdbe41596516350" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"10.0.0.2:12345 123456"</string>
+    <string name="native_5335d6e9696b7265" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已选择的 Skill 不再可用。请移除后继续。"</string>
+    <string name="native_cf1fc980b39c677c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"访问方式需要处理"</string>
+    <string name="native_d87cdf8aa30447b1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已确认"</string>
+    <string name="native_c2d1e79ec9be9fb7" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"将 %1$s 添加到聊天输入框"</string>
+    <string name="native_32090f801c8792d0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"配置 AI 需要管理员权限。"</string>
+    <string name="native_1118d311545c8880" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"智能体覆盖"</string>
+    <string name="native_11fb682be0a0233d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI"</string>
+    <string name="native_fdc6a595ad9adaaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI 访问"</string>
+    <string name="native_b8ce7e99cb85c969" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI 与模型"</string>
+    <string name="native_a34608662a618ee9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI 已就绪"</string>
+    <string name="native_5ee6097498602aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接本地 Gateway 后将继续 AI 设置。"</string>
+    <string name="native_884396bfea7941e1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI 设置需要处理"</string>
+    <string name="native_3394fd5088983e0a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"AI 验证未完成。"</string>
+    <string name="native_5b39b36a695a44ad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"允许 AI 在需要时查看并操作 Android。"</string>
+    <string name="native_1508190d5184e5c8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"允许通知，以便在输入配对信息时保持配对对话框开启。"</string>
+    <string name="native_1e42ecc7133df999" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"允许 OpenClaw 本地连接"</string>
+    <string name="native_1bb201d188352e9b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已允许"</string>
+    <string name="native_d1fc488076b4a733" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"允许的模型"</string>
+    <string name="native_d8c8d201a7bc7e58" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 访问"</string>
+    <string name="native_6e4ce1b3c38d3cfc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 构建环境"</string>
+    <string name="native_e714a18f5f294ccc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 无法完成该操作。请检查当前设置后重试。"</string>
+    <string name="native_6845c40df3c34d26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 开发环境需要处理"</string>
+    <string name="native_9f33eca278e39792" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 开发环境设置"</string>
+    <string name="native_64881f8a5eadd404" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 开发工具不可用"</string>
+    <string name="native_ca342854d3b55250" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 设备连接"</string>
+    <string name="native_b8f44babf1e5cf94" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 设备连接不可用"</string>
+    <string name="native_81ec8c1c71499727" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 设备运行环境"</string>
+    <string name="native_3e9ba0dae0ba832e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 未提供一致的 Linux 环境信息。返回应用后请重新检查。"</string>
+    <string name="native_22ab1dbdcfe3ef6e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 未提供足够的信息。返回应用后请重新检查。"</string>
+    <string name="native_d8a777a67c51179a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 下载目录不可用。请检查设备存储空间后重试。"</string>
+    <string name="native_e39b382edc84430e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Kotlin"</string>
+    <string name="native_4ed8a25f9c266c99" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Kotlin 开发"</string>
+    <string name="native_8d6c86d28a9412b5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Native"</string>
+    <string name="native_3a5adbadad1b9d6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Native 开发"</string>
+    <string name="native_77acac72a00c1a9a" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android NDK %1$s"</string>
+    <string name="native_8cf463031a4575c5" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 平台 %1$s"</string>
+    <string name="native_d86d3b6aecbc78b2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 报告的 Linux 环境信息不一致。重启或系统更新后请重新检查。"</string>
+    <string name="native_bcae9171a255079a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android SDK"</string>
+    <string name="native_dd1d1b2767618184" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android 工具不可用"</string>
+    <string name="native_1485b25a840d1095" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use"</string>
+    <string name="native_4942a6b7c8c7b861" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此手机上的 Android Use 已发生变化。批准更新后的能力，Chat 才能继续使用。"</string>
+    <string name="native_0b1f847e17b80b01" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use 已结束"</string>
+    <string name="native_82dfb3fe3004398c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use 已在运行"</string>
+    <string name="native_0845e9b8bc15ab1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use 正在操作"</string>
+    <string name="native_d4ce49f1559dbd9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use 正在等待"</string>
+    <string name="native_3dc4e9c75486fe00" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Android Use 需要处理"</string>
+    <string name="native_bc3de8c7077d7339" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 正在执行另一次重启。"</string>
+    <string name="native_a8ff920b4a6f66eb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"另一个 OpenClaw 设置正在进行。请先完成或取消后重试。"</string>
+    <string name="native_b2a3aa602762a782" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"回答"</string>
+    <string name="native_16f0ee47f993d627" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"API key"</string>
+    <string name="native_0d04bfeb7d64b71c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"App"</string>
+    <string name="native_8dfc47821655b239" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"App 连接需要处理"</string>
+    <string name="native_6479c18550e1a252" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在应用 AI 配置"</string>
+    <string name="native_7ffa3a109f432b4b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在应用配置"</string>
+    <string name="native_d51e654ad2de09a8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在应用配置…"</string>
+    <string name="native_cebb5a34d12621c0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在应用所选模型…"</string>
+    <string name="native_6d0ca72102dfcb44" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"批准 Terminal 中 OpenClaw 的端口转发请求，然后返回此处重试。该端口只会在本设备上开放。"</string>
+    <string name="native_a497d9aba524b0dc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"认证配置覆盖"</string>
+    <string name="native_85d7235317e76f4d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"授权 Android Use"</string>
+    <string name="native_405430d7dba5f7ff" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"授权此手机"</string>
+    <string name="native_d817be13a8de129b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法准备 Bootstrap"</string>
+    <string name="native_a25c8e791f22167e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Bootstrap 协议"</string>
+    <string name="native_8858bb8f7e359f46" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Bootstrap 已启动"</string>
+    <string name="native_0ff61e383e393718" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用固定版本的原生 ARM64 Flutter 和 Dart 工具链构建 Android 应用。"</string>
+    <string name="native_d79dfc5e6f1b2a37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用固定版本的 NDK、CMake 和 Vulkan 模板构建 ARM64 Android 应用。"</string>
+    <string name="native_07c33a5590f2e414" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用受限的 Node API 服务为 Android Chrome 构建 React 和 TypeScript 前端。"</string>
+    <string name="native_fb34d53a5799f86b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用固定版本的 React Native、Developer Node 和 Hermes 构建独立 ARM64 Android 应用。"</string>
+    <string name="native_6e6af0d46a1ad735" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 内置能力"</string>
+    <string name="native_e641df9e990ee777" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法连接 ClawHub。请检查网络连接后重试。"</string>
+    <string name="native_c0bf75bd78bf9572" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"更改"</string>
+    <string name="native_0d52a46062ccc5e4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在更改默认模型"</string>
+    <string name="native_76e1ea0e95dbf787" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"聊天详情"</string>
+    <string name="native_09c3e4caec5cfb04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"聊天名称"</string>
+    <string name="native_6e30461935748f53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法更改聊天名称，请重试。"</string>
+    <string name="native_d32044524174b97b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"聊天选项"</string>
+    <string name="native_110f70a75f47e0d7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ChatGPT 登录要求 Linux 环境能够访问 OpenAI。请检查其网络或代理后重试。"</string>
+    <string name="native_64a7478a3aac40f1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"检查 Preview"</string>
+    <string name="native_ebb4b987190f8aee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请检查连接后重试。"</string>
+    <string name="native_502e326ce032d102" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"继续之前，请先检查本地运行环境状态。"</string>
+    <string name="native_56a02cc9ad92c6c1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"检查配对信息"</string>
+    <string name="native_20505ae18f100fa9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"继续前请先检查任务状态。"</string>
+    <string name="native_2942e787a95cbec4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"检查 VScreen"</string>
+    <string name="native_0efd92a335901ac9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"检查时间"</string>
+    <string name="native_4d1cb55c16f56fad" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查 %1$s"</string>
+    <string name="native_031254b6821abc1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查开发组件"</string>
+    <string name="native_7ab8ee1e7e345b66" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查配置"</string>
+    <string name="native_2b0ed71bd135e28c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查配置…"</string>
+    <string name="native_2c79189604a012a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查 Flutter"</string>
+    <string name="native_ddff25776ce5de57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查 Supervisor"</string>
+    <string name="native_d3cf4320225d8136" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查本地 Gateway"</string>
+    <string name="native_c44915fb57ef1a15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查新的 OpenClaw 实例"</string>
+    <string name="native_2bb5196e207dcb04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查手机…"</string>
+    <string name="native_f07e634f4c634d92" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查 Preview 显示…"</string>
+    <string name="native_b2e37bb06c1f7d25" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查所选组件"</string>
+    <string name="native_d0b29c80e0626df4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查这台设备"</string>
+    <string name="native_ec963ffc911b8401" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在检查…"</string>
+    <string name="native_78a7ab5e314ab1a5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"选择模型"</string>
+    <string name="native_5265b4fca97f8c04" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"选择一个起点，或直接描述你的想法。"</string>
+    <string name="native_1c0bd7b35d7dd4e8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"选择 AI 使用方式"</string>
+    <string name="native_437d3e0d34579dec" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"选择要安装到私有 Linux 环境中的工具。完成设置后即可连接 AI 模型。"</string>
+    <string name="native_443373ad0b9d685d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Chromium"</string>
+    <string name="native_a2019fe71279ebb5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub"</string>
+    <string name="native_c83f43b4a448f76f" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub 正忙。请在 %1$s 秒后重试。"</string>
+    <string name="native_8a06d5fe50cb971a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub 正忙。请稍后重试。"</string>
+    <string name="native_c12b7414d48e1dac" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub 不可用（HTTP %1$s）。"</string>
+    <string name="native_c879f8647e54fbf4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawHub 返回了无效响应。"</string>
+    <string name="native_595b8d46a4da0c48" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne %1$s（%2$s）"</string>
+    <string name="native_ea20bca9f1274ea7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 无法连接 Supervisor。请再次检查，或打开系统 Terminal 查看 Linux 环境。"</string>
+    <string name="native_0a29a0a700400162" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 无法发布一次性 Bootstrap。请检查设备存储空间后重试。"</string>
+    <string name="native_f9807fc1a4b27e40" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 无法验证本地服务。请确认 Linux 正在运行后重试。"</string>
+    <string name="native_5e801bdbc23e774d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 无法验证一次性设置。请准备新的 Bootstrap 后重试。"</string>
+    <string name="native_441bc7c2d32eaee3" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 界面 · %1$s"</string>
+    <string name="native_5b7eb6866bf66dab" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 是基于 OpenClaw 的独立项目。"</string>
+    <string name="native_a2e3b65b590b6271" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在检查手机上的本地服务，完成后再打开 Chat。"</string>
+    <string name="native_2c91360f0bd1c945" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在检查私有 Android 开发连接。"</string>
+    <string name="native_48bfe98eb05b7da1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在确认 Android Linux 环境是否可用。"</string>
+    <string name="native_c6371e5eb4da98fd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在创建与 Linux 环境的一次性私有连接。"</string>
+    <string name="native_261b819c64a71c32" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在与本地 Gateway 建立私有连接。"</string>
+    <string name="native_011d2a32ffe14a3b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在准备安全的本地服务交接。"</string>
+    <string name="native_1d0842b050debf3d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 已就绪"</string>
+    <string name="native_8342c2d37293375d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 正在恢复当前登录步骤。"</string>
+    <string name="native_ad15902e7cba85d0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 的本地 Linux 开发环境需要 ARM64 设备。"</string>
+    <string name="native_2c6e7a1b0d72cf4d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 需要 Android 15 或更高版本，并且系统提供 Linux 环境。"</string>
+    <string name="native_8ce5486250b57a1c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 设置"</string>
+    <string name="native_296085dda1b08fe0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"ClawInOne 将验证私有 Android 工具是否重新连接到这台手机。"</string>
+    <string name="native_16e346ada166a432" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"新的 Gateway 实例就绪后，ClawInOne 将继续设置。"</string>
+    <string name="native_5137c8760c941186" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"安全"</string>
+    <string name="native_7063440335590b37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CLI 后端"</string>
+    <string name="native_a13cc6cba468567e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CLI 命令"</string>
+    <string name="native_7d8ab368210c5ae8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"关闭预览"</string>
+    <string name="native_2da15e4dad77d43f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"关闭设置"</string>
+    <string name="native_08599e4fc69c0d6e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"关闭 VScreen"</string>
+    <string name="native_96b2699668afd4c7" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"CMake %1$s"</string>
+    <string name="native_b322b65227bc3ec9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已收起"</string>
+    <string name="native_9277cd050d5c3614" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"补全模型"</string>
+    <string name="native_aa78976e2ce770e2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"组件已就绪"</string>
+    <string name="native_73712234a32ced3d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"组件不可用"</string>
+    <string name="native_c174a9afa1e3719f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"输入选项"</string>
+    <string name="native_9042eee05ef65895" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在配置本地 Gateway"</string>
+    <string name="native_379be4376ece3103" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接 AI 模型"</string>
+    <string name="native_41f0a9b065c5ec57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接 OpenClaw 后，再次检查项目工作区。"</string>
+    <string name="native_99a02ddccd9a2e4a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接 Gateway 以检查此 Plugin。"</string>
+    <string name="native_8023f8bfd6d29090" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接 Gateway 以加载 Plugin。"</string>
+    <string name="native_3c6800da0aae4fa0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接 Gateway 以搜索 ClawHub Plugin。"</string>
+    <string name="native_7e89af1393267e38" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接本地服务"</string>
+    <string name="native_a3d0fc0e576fddc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接已验证的手机，用于应用交付和 VScreen。"</string>
+    <string name="native_7c4c793a874754aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"连接此手机"</string>
+    <string name="native_e0ddf7a6cd208571" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"将此手机连接到本地开发运行环境，用于应用交付和 VScreen。"</string>
+    <string name="native_9e6e2be6c06edb4b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在连接 App"</string>
+    <string name="native_9e3fab0a2cd5afea" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在连接本地服务"</string>
+    <string name="native_1c0cf6b4577637a2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在连接 AI 设置…"</string>
+    <string name="native_5a5eb5a13b4f00c2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在连接 OpenClaw"</string>
+    <string name="native_0794f42305359729" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在连接此手机…"</string>
+    <string name="native_a6e600a10fede40f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"上下文"</string>
+    <string name="native_3ad86c4816ad0234" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"上下文 · 已使用 %1$s%%"</string>
+    <string name="native_31fbef162594de01" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"继续"</string>
+    <string name="native_54f19947592ebdfd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用 ChatGPT 继续"</string>
+    <string name="native_ff5f8ab647a94374" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"不安装 %1$s 并继续"</string>
+    <string name="native_0738c7aa32f64383" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"不安装此能力并继续"</string>
+    <string name="native_3a250107420c1539" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在继续设置…"</string>
+    <string name="native_0488acc63d8b5135" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"契约"</string>
+    <string name="native_f1a9a6ac157dc7df" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"对话访问"</string>
+    <string name="native_9a01feecae675f2f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"复制命令"</string>
+    <string name="native_b8e7644a03d09624" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"复制诊断信息"</string>
+    <string name="native_282e5535b47ec5dd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"复制修复命令"</string>
+    <string name="native_f0f755afea88944b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"复制回复"</string>
+    <string name="native_33106a66d0568d64" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"核心 Runtime · 约 120 MB"</string>
+    <string name="native_db703329edd3477d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法授权 Android Use。请检查本地环境后重试。"</string>
+    <string name="native_e4bcff1c9a22620e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法取消此设置会话。"</string>
+    <string name="native_025ea233e7ea5cdb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法更改默认模型。"</string>
+    <string name="native_72a6020f57c2cab3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法继续此设置步骤。"</string>
+    <string name="native_a70ef9447420334c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法复制命令"</string>
+    <string name="native_4131706f801df287" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法检查此 Plugin。"</string>
+    <string name="native_3a37c2a781077f41" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法加载 AI 模型。"</string>
+    <string name="native_01a93c58bd87ac9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法加载 AI 设置选项。"</string>
+    <string name="native_f1225286fc817e6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法加载 Plugin。"</string>
+    <string name="native_bf57dc5b91b86f2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法加载 Plugin 能力审查。"</string>
+    <string name="native_37c8b23e28ec17fd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法加载此设置步骤。"</string>
+    <string name="native_447bc194be2a1452" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法打开浏览器，请重试。"</string>
+    <string name="native_f909010d74711b6d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法保留此设置会话，请重试。"</string>
+    <string name="native_1a6dcb0f1dbfae1f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法刷新 Plugin 目录。请重新连接后重试。"</string>
+    <string name="native_ab7aed227d545b26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法搜索 ClawHub Plugin。"</string>
+    <string name="native_7eebef07cd9e1dd5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法开始此设置步骤。"</string>
+    <string name="native_71bb4bfbead4618d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用固定版本的原生 ARM64 Godot 和导出模板创建可交互的 3D Android 游戏。"</string>
+    <string name="native_fa67e4d0dae58c3c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"创建项目"</string>
+    <string name="native_c79ed9492e3c1719" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在创建…"</string>
+    <string name="native_60acc53f13a5d1bf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"深色"</string>
+    <string name="native_ea41ce78ec474bbb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Debian 已连接"</string>
+    <string name="native_dc56dd2687a38aaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已声明"</string>
+    <string name="native_3840d9d29421c46c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"默认模型"</string>
+    <string name="native_9c24f45a7ea9e466" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发版"</string>
+    <string name="native_b5da301ab16e4247" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发环境"</string>
+    <string name="native_005e2e6ea55db249" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Developer Node %1$s"</string>
+    <string name="native_85acd1818e25db70" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发者选项已关闭"</string>
+    <string name="native_6ad139fdc6cac4a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发环境已就绪"</string>
+    <string name="native_4df2c9a932900e6b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发组件已就绪"</string>
+    <string name="native_e8e6bc013bc95a29" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发连接不可用"</string>
+    <string name="native_8addd631aabb5041" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发环境"</string>
+    <string name="native_48c2281d5652a6dc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开发技术栈"</string>
+    <string name="native_6ba0bdeccb426d7b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设备"</string>
+    <string name="native_ae58aa7330e0ccbc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设备能力"</string>
+    <string name="native_8cf745e55e22bc67" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法确认设备兼容性"</string>
+    <string name="native_ef44ccbb890b05e1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设备需要处理"</string>
+    <string name="native_cfa8d09c323fd520" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"DevKit"</string>
+    <string name="native_fb7bdec372eeef3f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在停用…"</string>
+    <string name="native_37b345555d7ea6c1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在下载"</string>
+    <string name="native_aea64410d3e2a9d4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在下载开发组件"</string>
+    <string name="native_dc138cce68c398ba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在下载 Flutter"</string>
+    <string name="native_387a5a7e6daceec7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在下载所选组件"</string>
+    <string name="native_2922ffdb60a34fd6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开启 Linux 开发环境。无需 USB 调试；无线调试将在稍后配置。"</string>
+    <string name="native_e22c24238eb035dd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启用…"</string>
+    <string name="native_c97006ea9ed83e9c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"进入 Chat"</string>
+    <string name="native_5f1fd0586c0538fc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"输入配对信息"</string>
+    <string name="native_9e471951a1b4106e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"运行环境"</string>
+    <string name="native_e72d5d8d0b167d21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已展开"</string>
+    <string name="native_0f04ab16e24ad491" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"%1$s 分钟后过期"</string>
+    <string name="native_0441b4a72916388a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已明确允许"</string>
+    <string name="native_2f1bba53d9a99012" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已明确拒绝"</string>
+    <string name="native_f281a34a3982ada5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"完成首个 Workspace Chat 的创建"</string>
+    <string name="native_41913a91143e3cc7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"完成预览"</string>
+    <string name="native_bc01ae77f37cf304" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"完成设置"</string>
+    <string name="native_6e06d26442b0e405" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在完成设置…"</string>
+    <string name="native_47e17128395595fb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在完成…"</string>
+    <string name="native_c903759742b75021" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter"</string>
+    <string name="native_80f9ccd1bc6ff135" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter Android 开发"</string>
+    <string name="native_7abbe4dfdb2b443e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter 开发"</string>
+    <string name="native_402d3d54d1747b30" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter 已就绪"</string>
+    <string name="native_3d4c4196f4fef3e6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter SDK"</string>
+    <string name="native_f6652b95c216acf3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Flutter、原生 ARM64 Dart、Android 构建组件和 NDK · 约 4–5 GB"</string>
+    <string name="native_b5f861de55b29c2a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"忘记开发连接？"</string>
+    <string name="native_f935bf31caf8e3a9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在忘记…"</string>
+    <string name="native_b2e2516d28f59310" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Gateway 未能启动"</string>
+    <string name="native_c910d474dcd724bf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"通用"</string>
+    <string name="native_711631d8b138a7e9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"GitHub 源码"</string>
+    <string name="native_69a1441758fc8aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot 4.7.2 ARM64 和 Android 导出模板 · 约 1.4 GB"</string>
+    <string name="native_b9a1e14ddbec1f83" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android"</string>
+    <string name="native_e02977950d7fb32b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android 开发"</string>
+    <string name="native_1c75f8e75c21ae89" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Android 导出模板"</string>
+    <string name="native_769a2cab071a5b54" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Godot Engine %1$s"</string>
+    <string name="native_5aed382b44c6858c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Gradle %1$s"</string>
+    <string name="native_d412a062620ef57b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Hooks"</string>
+    <string name="native_56d6f32151ad8474" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"HTTP"</string>
+    <string name="native_c3d80a4ed901ee05" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"https://example.com/mcp"</string>
+    <string name="native_14186e1c74948861" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"如果无法自动发现，请输入“无线调试”页面显示的地址。"</string>
+    <string name="native_8777e3a9e3ec54a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"不兼容"</string>
+    <string name="native_cc7c7635efbef3a3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"在 Linux 中安装 Chromium、ADB、VScreen 支持、Node 和 OpenClaw。"</string>
+    <string name="native_239b191b03914c53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"安装运行环境"</string>
+    <string name="native_8c1194703ae138c6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请在“本地环境”中安装或修复可选的 Android 开发工具包，然后再次检查。"</string>
+    <string name="native_cd8121009dfdca6a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"安装所选工具"</string>
+    <string name="native_0062ba68caa63a07" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"按需安装固定版本的 Kotlin、Compose 和 Android 构建工具链。"</string>
+    <string name="native_c1454f89fe4d198d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"离开 ClawInOne 后，安装仍会安全继续。"</string>
+    <string name="native_24484322236c40eb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装开发组件"</string>
+    <string name="native_a72c838d26b7f93d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装 Flutter"</string>
+    <string name="native_42706ce40b4d875b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装本地服务"</string>
+    <string name="native_771e34f96463d3df" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装 Runtime"</string>
+    <string name="native_31337f36dc366323" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装所选组件"</string>
+    <string name="native_530bcc355f0a3cd6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在安装…"</string>
+    <string name="native_ad5ea6aae7ca18f5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"完整性"</string>
+    <string name="native_393377249d738e25" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"完整性类型"</string>
+    <string name="native_96c34a0719eb565c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无效"</string>
+    <string name="native_8338ddee6062bfb1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"配置无效"</string>
+    <string name="native_b0e8a1a232e84ce9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"JDK 21、Android SDK 37、Kotlin 和 Compose · 约 2–3 GB"</string>
+    <string name="native_ff74d7fa5a234fc5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"保持 Android 配对对话框开启，然后在此回复其中的地址和配对码。"</string>
+    <string name="native_fdce8a976eae6f22" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"保持 Android 配对对话框开启。"</string>
+    <string name="native_05a57adce3e083f2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin Android 开发"</string>
+    <string name="native_6e1e22c81cf22156" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin 工具、此手机和 Preview 已验证。正在打开新 Chat。"</string>
+    <string name="native_80e2566381196661" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin 工具、此手机和 Preview 已验证。正在打开“新建项目”。"</string>
+    <string name="native_d3f4f474fd62e2d1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Kotlin 工具、此手机和 VScreen 已验证。正在打开“新建项目”。"</string>
+    <string name="native_fd1c91bdd07c6d26" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"语言模型"</string>
+    <string name="native_dbcd5e7bb7a0f538" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"浅色"</string>
+    <string name="native_4828e60247c1636f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux"</string>
+    <string name="native_d99502da46b3e36e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux 开发环境已关闭"</string>
+    <string name="native_a206461da074ab1e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux 需要处理"</string>
+    <string name="native_660ab25bf5ab0990" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux 设置在“%1$s”阶段停止（退出码 %2$s）。"</string>
+    <string name="native_f65ddc1ff37bb18e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"实时预览"</string>
+    <string name="native_ba8952efb4235257" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"实时预览已结束"</string>
+    <string name="native_54a4cbf747abe9f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"实时预览不可用"</string>
+    <string name="native_f11b9ad07823a2b2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"实时预览。打开全屏"</string>
+    <string name="native_c9382e2ebe6e6f7f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"实时预览。恢复"</string>
+    <string name="native_65d806aaee34e425" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在加载可用登录方式…"</string>
+    <string name="native_21ac9e3a27f3c348" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在从 OpenClaw 加载模型…"</string>
+    <string name="native_a5986e5e04f8f27f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在加载项目"</string>
+    <string name="native_fc24414b308ff6a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在加载审查…"</string>
+    <string name="native_ba3bbbe10d8bef66" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在加载…"</string>
+    <string name="native_9b08984b3b3f6bf9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地命令"</string>
+    <string name="native_3762edbf57284c21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地环境"</string>
+    <string name="native_20b98321b3a1909d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地端口不可用"</string>
+    <string name="native_69fd827a91bd2931" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地运行环境"</string>
+    <string name="native_e0a8d2fdd0d6809d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地服务不可用"</string>
+    <string name="native_5a23444828db654a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"管理"</string>
+    <string name="native_2b2fee11ba3315e2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"管理 AI 访问方式和默认模型。"</string>
+    <string name="native_b2fae32fcb75c153" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"由 DevKit 管理"</string>
+    <string name="native_22a7559f09bf8f82" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"MCP server"</string>
+    <string name="native_c3963aedaac6c83c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"记忆"</string>
+    <string name="native_d90ac1c067691077" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"缩小 VScreen"</string>
+    <string name="native_e87ce926a77f4068" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"模型 · %1$s"</string>
+    <string name="native_d29578d4fff831aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"模型覆盖"</string>
+    <string name="native_f8d46c2570e70736" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"更多操作"</string>
+    <string name="native_35b3145b03b00dc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"名称已存在，请换一个。"</string>
+    <string name="native_24633bc0a768ee97" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"命名并创建此项目"</string>
+    <string name="native_98e890e0517af324" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"NDK、CMake 和 ARM64 Vulkan 模板 · 约 2 GB"</string>
+    <string name="native_7cf56e8e701ac618" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要授权"</string>
+    <string name="native_679766b52076e824" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要授权"</string>
+    <string name="native_4ed3689d9d350f08" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要修复"</string>
+    <string name="native_6526cf82b9741581" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"在 %1$s 中新建 Chat"</string>
+    <string name="native_6f8d17646237f4f6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"新建项目"</string>
+    <string name="native_545344acec2a78ba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"下一页"</string>
+    <string name="native_27e7713cfeff4403" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"没有匹配的对话"</string>
+    <string name="native_dcac648cae8c2341" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"没有匹配的项目或 Chat"</string>
+    <string name="native_f83c806522865605" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"还没有项目"</string>
+    <string name="native_03dd642570444ed0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"没有最近的对话"</string>
+    <string name="native_b5b9919d22a96ba2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"暂无可用 Skill"</string>
+    <string name="native_2b54cb590dc70aa7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"未找到 Skill"</string>
+    <string name="native_f309cee3735bc27e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此 AI 访问方式暂无可用模型。"</string>
+    <string name="native_c54da83e4f5f39af" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Node %1$s"</string>
+    <string name="native_d177cdc09a4ea3f3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"未安装"</string>
+    <string name="native_15133907259330da" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"未验证"</string>
+    <string name="native_1f579cdb9ebd32e5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"只有一次性开发配对流程需要通知权限。"</string>
+    <string name="native_768908e20c0750ac" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"通知不可用"</string>
+    <string name="native_7403888634b68dcb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"一次性本地服务设置"</string>
+    <string name="native_218a8bc874925467" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"用于将 Linux 开发环境与此手机配对的一次性提示。"</string>
+    <string name="native_61783cbd7decda10" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开“关于手机”"</string>
+    <string name="native_56ca98d10502ed54" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开“关于手机”，找到版本号并连续点按七次。Android 确认开发者模式后返回此处。"</string>
+    <string name="native_9ac1dcbbb61e5fb6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开活动 Chat"</string>
+    <string name="native_b84a7dc03e31fe5f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开浏览器"</string>
+    <string name="native_8ec023a95c6dbe49" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开开发者选项"</string>
+    <string name="native_6d7cc6c260b0f6f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开运行环境"</string>
+    <string name="native_1bc4b3fa49d602ed" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开首次设置预览"</string>
+    <string name="native_1f946d66362b3c61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开许可证"</string>
+    <string name="native_c6885c8ebcb22d11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开通知设置"</string>
+    <string name="native_2e1e6c58f22b2505" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开系统更新"</string>
+    <string name="native_ae088e1416176bb9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开 Terminal"</string>
+    <string name="native_d0d7e00e1d50a771" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开全局可交互 Android 屏幕。"</string>
+    <string name="native_2eabc8d74697b819" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"打开 VScreen"</string>
+    <string name="native_f37e18021a4a90b9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开源声明"</string>
+    <string name="native_7d3194f79e645c42" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenAI"</string>
+    <string name="native_6acd038e51c5158f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 激活了另一个模型。"</string>
+    <string name="native_04ffdd5433049c61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已完成设置，但未激活模型。"</string>
+    <string name="native_6ea859adf278f051" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已完成登录，但未激活模型。"</string>
+    <string name="native_544e71a572e9687d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法连接 OpenClaw"</string>
+    <string name="native_0f3bf38114434a1f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 无法安排此次重启。"</string>
+    <string name="native_57b445208a023c2c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 未提供默认 Agent。"</string>
+    <string name="native_7d200226dcb24a14" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 运行环境"</string>
+    <string name="native_125e3dbef6b01fb2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 在 Linux 内运行正常，但 Android 无法访问转发端口。请先重新连接；也可以在系统 Terminal 中检查端口转发设置。"</string>
+    <string name="native_1a083e4cccc56978" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 未运行"</string>
+    <string name="native_a213028b54cb592d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已离线"</string>
+    <string name="native_8f34b79a81197e43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已恢复就绪"</string>
+    <string name="native_21ba13e4a15b9645" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 在 Linux 内已就绪，ClawInOne 正在等待本地转发端口。"</string>
+    <string name="native_00e8f870b2f6d9cb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 正在释放当前任务。"</string>
+    <string name="native_cd0d7b819ac2c61c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 正在测试所选模型。"</string>
+    <string name="native_b53b41bedef54ece" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 需要处理"</string>
+    <string name="native_67074005627239af" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已离线"</string>
+    <string name="native_693c59cab77ed329" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"一台 Android 设备上的 OpenClaw"</string>
+    <string name="native_c5ad45a54bbca55b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"一台 Android 设备上的 OpenClaw。"</string>
+    <string name="native_f6e6fea670efdb1a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 配对失败"</string>
+    <string name="native_eca81a15f2ce8864" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 配对已就绪"</string>
+    <string name="native_39720a8628138803" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 已重启，但无法验证 Plugin 状态。请刷新后重试。"</string>
+    <string name="native_fc281b474555fba5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw Runtime"</string>
+    <string name="native_43078805dcd7279c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要更新 OpenClaw"</string>
+    <string name="native_23790294a39b9c7f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 验证了另一个默认模型。"</string>
+    <string name="native_945c52d588cbe81d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw 将删除其私有 ADB 凭据。下次连接时 Android 会要求新的配对码。"</string>
+    <string name="native_f06b2e32f610b481" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在打开新 Chat。"</string>
+    <string name="native_59be71333c960fd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"可选"</string>
+    <string name="native_93ad68a701dd09d2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"可选展示暂不可用"</string>
+    <string name="native_f97e9da0e3b879f0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"其他"</string>
+    <string name="native_9c057c423ace494d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"其他登录方式"</string>
+    <string name="native_b0545ee3486b14f4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新配对"</string>
+    <string name="native_774169de383a5efb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新配对 ClawInOne"</string>
+    <string name="native_77e7ace33f1ad0ce" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新配对此 App"</string>
+    <string name="native_8f85ec9dced65a7c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"配对此手机"</string>
+    <string name="native_9d0e62d23d8c753e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在配对此手机…"</string>
+    <string name="native_0ab6490feae09679" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"配对未完成"</string>
+    <string name="native_ec9f969d1008617a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在配对…"</string>
+    <string name="native_cb636fbbf5a463a6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"并行工具"</string>
+    <string name="native_63dceb8800b2dd4a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"手机"</string>
+    <string name="native_bd80ee721df3f50c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"手机已离线"</string>
+    <string name="native_3c757ae9dda952a7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"首选"</string>
+    <string name="native_fa71d7e44cb2513b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"准备 ClawInOne"</string>
+    <string name="native_43002d98132b1b2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"准备 OpenClaw"</string>
+    <string name="native_7c8da1973e301aa4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备 ClawInOne"</string>
+    <string name="native_3ca72c4b95b19c21" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备 Linux"</string>
+    <string name="native_ea850e67c122b395" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备 OpenClaw"</string>
+    <string name="native_4d24a2f29a7fbaf0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备修复命令…"</string>
+    <string name="native_46c47bcfcae70732" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备安全交接"</string>
+    <string name="native_120de9abd0a28650" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备安全设置"</string>
+    <string name="native_455db8f888136182" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备工作区…"</string>
+    <string name="native_5d1fa38bcf0d88ca" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在准备…"</string>
+    <string name="native_8555b87244e05302" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"预览首次设置"</string>
+    <string name="native_127d58af8204c338" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview 已就绪"</string>
+    <string name="native_21ecde11a45c8c71" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"预览正在更新"</string>
+    <string name="native_b5ad7b1322c33248" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Preview 需要处理"</string>
+    <string name="native_0560a8562a42bc88" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"仅供预览，不会更改你的设备。"</string>
+    <string name="native_9a285c788725c847" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"预览已保留"</string>
+    <string name="native_40c32625ec4d427d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"上一页"</string>
+    <string name="native_9859597853197476" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目"</string>
+    <string name="native_5f4743eff7e70c4f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目已创建"</string>
+    <string name="native_14ac12baa6f4278d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"暂时无法创建项目"</string>
+    <string name="native_0059f77ced778839" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"尚未确认项目创建结果"</string>
+    <string name="native_25498193b898195d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目名称"</string>
+    <string name="native_065849549d0ad1f5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目名称不能包含路径分隔符或控制字符。"</string>
+    <string name="native_ab7651ff98f45f64" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请输入项目名称。"</string>
+    <string name="native_5f72219d3d9217b4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目名称过长。"</string>
+    <string name="native_04e2a9728af75840" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"项目"</string>
+    <string name="native_b027ad47a6d84701" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"提示词注入"</string>
+    <string name="native_1cd07be18aed5105" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native"</string>
+    <string name="native_d69f70db2058913c" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native %1$s"</string>
+    <string name="native_aaee1562aad6a522" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native Android 开发"</string>
+    <string name="native_8758fe6b0c6d0510" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native 开发"</string>
+    <string name="native_8c4793b0c1e684bd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React Native、Developer Node、Hermes、Gradle 和 Android NDK · 约 3–4 GB"</string>
+    <string name="native_ce0b748746595031" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"React、TypeScript、Vite 和 Node API 服务 · 约 300 MB"</string>
+    <string name="native_72ed245d2cf11822" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"原因"</string>
+    <string name="native_a95f3744e7f9e9e8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请先重新连接，再更改此 Plugin。"</string>
+    <string name="native_e738c0527cdcffa8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请先重新连接，再刷新 Plugin 目录。"</string>
+    <string name="native_e9f0277b6d89a8b3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新连接此手机"</string>
+    <string name="native_81f88eee51001964" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新连接此手机，以创建新的 Android Use 授权请求。"</string>
+    <string name="native_7aaac55f860f161b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请先使用管理员权限重新连接，再重启 OpenClaw。"</string>
+    <string name="native_61ffa3f74a85e305" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在重新连接 OpenClaw"</string>
+    <string name="native_fb28d9b802fe1e1a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在重新连接 OpenClaw…"</string>
+    <string name="native_565c21e5a6d73338" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要刷新"</string>
+    <string name="native_f92e2ad582c0e13f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在刷新"</string>
+    <string name="native_1c0def7be0607b96" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在刷新…"</string>
+    <string name="native_26e8d9b94b3a6d78" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"移除 Skill @%1$s"</string>
+    <string name="native_d4b09919ec929f15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在移除…"</string>
+    <string name="native_26076241b3226d1d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重命名聊天"</string>
+    <string name="native_40aef98da2aaafc0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在重命名…"</string>
+    <string name="native_0b9a187a0e4a4dad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在渲染测试画面…"</string>
+    <string name="native_70ad3b36debaeb72" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"修复 Android 开发环境"</string>
+    <string name="native_6f364ad28b3a2983" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"修复运行环境"</string>
+    <string name="native_344e28cd93eede82" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"修复或更新本地 OpenClaw 环境，然后再次检查。"</string>
+    <string name="native_e687aab4d01ab981" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请先在 DevKit 中修复 OpenClaw 运行环境，然后再次检查。"</string>
+    <string name="native_637fcfc398afa3f8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"进入 Chat 前，请修复必需的 Android 开发工具。"</string>
+    <string name="native_4a561219519aff15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"回复 IPv4 配对地址和六位配对码，中间用空格分隔。"</string>
+    <string name="native_4850b174b713d88c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"必需"</string>
+    <string name="native_bad2c3e30304b751" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"必需环境"</string>
+    <string name="native_86cc6e5ec6a4573c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在重置连接…"</string>
+    <string name="native_fabf8544d694d4e5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重启一次私有 ADB 连接，让第一个开发 Chat 无需额外设置即可使用这台手机。"</string>
+    <string name="native_6ac7c01d958adf15" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"恢复本地引擎连接，然后再次检查。"</string>
+    <string name="native_3c707e7b2b3d3da7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重试 OpenClaw"</string>
+    <string name="native_3589264d76faa905" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"将 Android 预览恢复为悬浮窗"</string>
+    <string name="native_360195ee4551b669" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"返回正在运行的 Chat"</string>
+    <string name="native_b590efdc075fb3d8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"返回 ClawInOne，使用新的配对码重新开始。"</string>
+    <string name="native_dde35afef103efba" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请返回对应的 Chat，或先停止该任务再开始其他任务。"</string>
+    <string name="native_14ebe15a9147e50e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"审查已过期"</string>
+    <string name="native_9834120e9c8adc4c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"等待审查"</string>
+    <string name="native_6b75ef468bdebfb8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"建议审查"</string>
+    <string name="native_f0742e3a82fe8b57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要审查"</string>
+    <string name="native_f25c17d74655c783" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在审查"</string>
+    <string name="native_6b9eb649ccedd454" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"在 Terminal 中运行这条一次性命令。"</string>
+    <string name="native_27f0d56fd3602b95" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"运行中的 Gateway"</string>
+    <string name="native_c42a95f16619498d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"运行环境需要处理"</string>
+    <string name="native_9ccd9001faecf3b7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"运行环境已恢复"</string>
+    <string name="native_1509f561f2416598" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"保存"</string>
+    <string name="native_8abdf3b226e73179" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"搜索对话"</string>
+    <string name="native_3423bcf1d8181d76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"搜索项目和 Chat"</string>
+    <string name="native_3ecba54187d7a792" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在搜索对话"</string>
+    <string name="native_2a78025de6aae5e7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"选择"</string>
+    <string name="native_6b76d397a856a867" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"所选能力已就绪"</string>
+    <string name="native_e355798d7614a537" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"敏感设置"</string>
+    <string name="native_4da10f1fbb17cac2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设置"</string>
+    <string name="native_b0c832b02cd74c18" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在设置 %1$s"</string>
+    <string name="native_2410ec9cc12cb51f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设置会在 Linux 中继续；离开 App 后也会在返回时自动恢复。"</string>
+    <string name="native_ea64726ddc9adc5d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法完成设置。"</string>
+    <string name="native_747f9d965b63fe43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"必须完成设置才能进入下一步。关闭 App 后，本地服务仍会安全继续，并在你返回时恢复进度。"</string>
+    <string name="native_4fa1e7e8390b40b4" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"设置在准备 %1$s 时停止（退出码 %2$s）。已完成的工具不会重复安装。"</string>
+    <string name="native_e6d5bf2e2e0beeb5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"共享开发工具"</string>
+    <string name="native_bfd402b2f6f38125" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"登录"</string>
+    <string name="native_fbff35798a3c4006" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"登录代码"</string>
+    <string name="native_288685d3684c345a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"需要登录"</string>
+    <string name="native_6698e455a1f78839" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"来源包"</string>
+    <string name="native_028a758b1cfca596" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"来源引用"</string>
+    <string name="native_5c89f37c9b97d693" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"SSE"</string>
+    <string name="native_54829566b213ed14" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开始一个 Full 开发 Chat"</string>
+    <string name="native_0e364475713c4afc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启动实时预览"</string>
+    <string name="native_141f263beb20f7f3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启动 OpenClaw…"</string>
+    <string name="native_696abab0be63faeb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启动设置…"</string>
+    <string name="native_ba11f182ec827206" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启动本地 Gateway"</string>
+    <string name="native_e973377129ae0558" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在启动本地服务"</string>
+    <string name="native_6310ab83daf42e8d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"启动完成"</string>
+    <string name="native_6f32863b326fdbc6" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"第 %1$s 步，共 %2$s 步"</string>
+    <string name="native_67291cb6597d6c11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"停止状态尚未确认"</string>
+    <string name="native_faece8756e5a456f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请先停止当前任务，再检查其工作区访问权限。"</string>
+    <string name="native_1a4f630ac1b69fd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"已停止"</string>
+    <string name="native_e885e4421e6a6afb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Streamable HTTP"</string>
+    <string name="native_d6cb4188b8fa57aa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"子智能体"</string>
+    <string name="native_9de790933254b865" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor"</string>
+    <string name="native_c7129458406a78ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor 需要处理"</string>
+    <string name="native_cf4edea23fe5b355" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor、OpenClaw Gateway 与 App 连接均已就绪。"</string>
+    <string name="native_08508b814c4ce88d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"任务需要处理"</string>
+    <string name="native_3c86be3eae40bb5f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"暂时不可用"</string>
+    <string name="native_20afb9018c53a9a0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Terminal 命令"</string>
+    <string name="native_94c9182777d93dd2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在测试连接…"</string>
+    <string name="native_068a2de4ec58ce6f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"更改操作已返回，但刷新后的 Plugin 目录尚未确认结果。再次重试前请先刷新。"</string>
+    <string name="native_76a5125d79dbbae0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"默认模型更改未生效。"</string>
+    <string name="native_8a045e0dea0653ad" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"默认模型状态未知。请先检查 OpenClaw，再重试。"</string>
+    <string name="native_c092b6f76e824d5e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"API key 仅发送一次至 OpenClaw，不会保存在 Android 中。"</string>
+    <string name="native_ed55ad2bc30152ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Linux 环境未及时响应。请确认它正在运行后重试。"</string>
+    <string name="native_146e0030b79f3aa0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 未提供必需的手机连接组件。"</string>
+    <string name="native_4eff855c2f712fc2" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 已就绪"</string>
+    <string name="native_d7332a3f4186744a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 正在等待此手机批准 Android Use 能力。"</string>
+    <string name="native_d78e9f914e466c4f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 配对已就绪"</string>
+    <string name="native_8d1e427449daff2e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 配对已停止"</string>
+    <string name="native_c864f1e6c6a2fb27" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 返回了无效的连接响应。请重试。"</string>
+    <string name="native_49c2e94f87bb57ae" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 已停止"</string>
+    <string name="native_4a8a78d4206f3e47" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地 Gateway 已停止（退出码 %1$s）。请重试。"</string>
+    <string name="native_ac01bb72f5477f16" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地运行环境已就绪。"</string>
+    <string name="native_784e65701b89ff11" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地运行环境已作为新实例重启，App 中现有的 Chat 状态仍然保留。"</string>
+    <string name="native_c240c34d4aae701b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法连接本地服务"</string>
+    <string name="native_96df518d32c4612f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地服务不可用"</string>
+    <string name="native_4e3c480db45c976a" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地服务拒绝了此设置计划（退出码 %1$s）。请刷新已保存的计划后重试。"</string>
+    <string name="native_de605522946d931d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"本地服务状态通道缺失。请确认 Linux 正在运行后重试。"</string>
+    <string name="native_ed3dde11303369a8" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"一次性设置会话已丢失。请准备新的 Bootstrap，并且只运行新命令。"</string>
+    <string name="native_0efe80e0fb2b8651" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Plugin 更改结果未知。请重新连接并刷新后再重试。"</string>
+    <string name="native_16d7b1f9b920c9d3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法自动恢复之前的默认模型。"</string>
+    <string name="native_1cac5c2b39c22898" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"私有测试画面已成功渲染。"</string>
+    <string name="native_39fa2f845da03072" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法读取项目工作区。"</string>
+    <string name="native_b16c5089c535873f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"刷新后的目录未确认 Plugin 更改。你可以重试。"</string>
+    <string name="native_f23cff0836e666b7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法准备修复命令或打开系统 Terminal。"</string>
+    <string name="native_c0dffdf76cde17ac" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"OpenClaw、Chromium、ADB 和 VScreen 所需的本地运行环境。"</string>
+    <string name="native_a0329a4a890f9504" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法接受设置计划"</string>
+    <string name="native_e0869fcd7f7a9235" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor 可以准备一个新的一次性设置码，ClawInOne 会在内部完成 Gateway 配对。"</string>
+    <string name="native_7c061e9a7977c68f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor 已连接，但 OpenClaw Gateway 在启动过程中停止了。"</string>
+    <string name="native_e3a67bb490aeb5d4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Supervisor 正在准备 Gateway，你可以在这里查看每个启动阶段。"</string>
+    <string name="native_ab50d6e4230131b5" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"系统 Linux Terminal 组件不可用，可能需要更新系统。"</string>
+    <string name="native_198fbf3e69fd4526" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"无法确认工作区更新。"</string>
+    <string name="native_2e2d07b7992a63d6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工作区更新被拒绝。"</string>
+    <string name="native_0256c3336e1262e4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"主题与界面语言。"</string>
+    <string name="native_a20d12c5e9c428c3" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"思考"</string>
+    <string name="native_27c1d1f8614e1da0" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"思考 · %1$s"</string>
+    <string name="native_4f0f4edd169a4a83" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"支持思考强度"</string>
+    <string name="native_2f96f6713d7f83ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"当前 Gateway 不支持此 AI 设置选项。"</string>
+    <string name="native_90f0ef4d8093c03d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此聊天已发生变化。继续前请检查其工作区。"</string>
+    <string name="native_7a9ca10301354fe0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工作区准备就绪后，此聊天将继续。"</string>
+    <string name="native_1f432407782f9e5a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此连接无法确认项目工作区。"</string>
+    <string name="native_ccdfebaf73efcff7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"这台设备无法运行 ClawInOne"</string>
+    <string name="native_f14de22ed5db253f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"这台设备未提供 Android 所需的虚拟化能力。"</string>
+    <string name="native_c5159a41861286b1" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此 Gateway 连接需要 operator.admin 权限才能管理 Plugin。"</string>
+    <string name="native_80048f9b69795e22" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此 Gateway 不允许该 Plugin 更改。"</string>
+    <string name="native_45a0196f1d75bdaf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此项目不在官方目录中。"</string>
+    <string name="native_36bfeae8f6b0f1a4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此 OpenClaw 运行环境无法确认项目工作区访问权限。"</string>
+    <string name="native_d180145321ca582f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此项目聊天尚未绑定到其工作区。"</string>
+    <string name="native_a5d3dbf1289e2446" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此项目正在另一个 Chat 中运行"</string>
+    <string name="native_55c51e463fd71b37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此设置需要固定的 OpenClaw 9.4 Gateway 协议。"</string>
+    <string name="native_0fa597aae254c877" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此设置会话已过期，请重新开始。"</string>
+    <string name="native_4a53427f1488b254" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此设置会话已失效。"</string>
+    <string name="native_20ae3a2b0aee752a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此次登录已失去授权。请重新连接 OpenClaw 后再开始。"</string>
+    <string name="native_cbbe214a96001fc4" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"此登录方式已不可用，请选择其他方式。"</string>
+    <string name="native_ff4779f342368d5c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工具过滤器"</string>
+    <string name="native_ea93d6a262ecb87a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工具"</string>
+    <string name="native_39834a8e3b7ab327" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工具不可用"</string>
+    <string name="native_aff76ff52698d28d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重试 Preview"</string>
+    <string name="native_72988bb79e25d874" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重试 VScreen"</string>
+    <string name="native_ee85a3c049a5fada" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新开启开发者选项即可恢复本地环境，你的项目和聊天不会改变。"</string>
+    <string name="native_a839350f08afad76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开启开发者选项"</string>
+    <string name="native_c5d054af8b7e3723" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开启 Linux 环境"</string>
+    <string name="native_4962a7812c4a5c3c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开启 Wi-Fi 和无线调试；如果 Android 询问，请允许受信任的网络，然后重新连接已保存的手机。"</string>
+    <string name="native_bd6eb7fb1f668c2f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"开启无线调试，选择“使用配对码配对设备”，然后在 ClawInOne 通知中回复地址和配对码。"</string>
+    <string name="native_dd7c2fcdad89ab43" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"重新开启 Linux 开发环境即可恢复，你的项目和聊天不会改变。"</string>
+    <string name="native_ac364e1afdd79d8d" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"极致"</string>
+    <string name="native_ddb10b3e6718eaaa" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"更新 OpenClaw"</string>
+    <string name="native_dae3a371b0787dd0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请更新 OpenClaw 以检查 Plugin 能力。"</string>
+    <string name="native_f266383c8c988b0f" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请更新 OpenClaw 以加载 Plugin。"</string>
+    <string name="native_6e9e6c4f709c7d38" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"请更新 OpenClaw 以搜索 ClawHub Plugin。"</string>
+    <string name="native_ab089ec540ef6fdb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"更新或修复本地 OpenClaw 安装，以恢复此产品组件。"</string>
+    <string name="native_22e2bada8f1c65cd" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"进展"</string>
+    <string name="native_dfe40efe921fe88e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在更新…"</string>
+    <string name="native_d0490d0465c688f0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用 API key"</string>
+    <string name="native_3e19122b8fad60ee" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"使用自动名称"</string>
+    <string name="native_4eb78265c7997c53" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"在 Chat 中使用"</string>
+    <string name="native_0ffe3365f3960887" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"验证重新连接"</string>
+    <string name="native_33334b3ed7ba7e5e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"验证此手机"</string>
+    <string name="native_a7d4a9f301edaa61" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证"</string>
+    <string name="native_fa10cfbe595c3cfc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证重新连接…"</string>
+    <string name="native_9cb66bff0b86aabc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证安装"</string>
+    <string name="native_1a6bf2ad0f3319fc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证私有连接…"</string>
+    <string name="native_80a454fe6d567322" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证 Runtime"</string>
+    <string name="native_be7a6168f4801734" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证 AI"</string>
+    <string name="native_9f065f0ccdfcdf0b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在验证 AI 模型"</string>
+    <string name="native_551be8ef5f3255ae" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen"</string>
+    <string name="native_b44c0bf42e4dc5ce" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen 是用于预览和操作 App 的独立虚拟屏幕，不会占用手机主屏幕。"</string>
+    <string name="native_3402b6ae501f0f57" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen 已就绪"</string>
+    <string name="native_f1201a2cadb513ed" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen 需要处理"</string>
+    <string name="native_346463ad895c0b30" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen 运行环境"</string>
+    <string name="native_24e7c0b3ecc18a93" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"VScreen 不可用"</string>
+    <string name="native_1ec7b7c222bce0f6" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待当前任务完成"</string>
+    <string name="native_1d3b5fe0f2f46f6a" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待当前任务…"</string>
+    <string name="native_add9e52591ea4d76" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待 Debian"</string>
+    <string name="native_65dccc639550bc37" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待 Linux…"</string>
+    <string name="native_5a498f929b6f5cdf" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待 OpenClaw…"</string>
+    <string name="native_1913451b1b233c1c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在等待 Terminal bootstrap"</string>
+    <string name="native_9e812de1fac258c9" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"等待启动本地 Gateway"</string>
+    <string name="native_56f77b92bfb7547b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"网页浏览"</string>
+    <string name="native_56aaa8a233c28251" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web 依赖 %1$s"</string>
+    <string name="native_ac7878511967befc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web 开发"</string>
+    <string name="native_746c6626eb051ec0" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Web 开发"</string>
+    <string name="native_43b1b81dbe5356bc" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"你想构建什么？"</string>
+    <string name="native_d0ae49c36fc8e6be" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在处理 · %1$s"</string>
+    <string name="native_5474eef8d0f179c7" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"正在处理…"</string>
+    <string name="native_223d19cfee337f86" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工作区访问权限尚未确认"</string>
+    <string name="native_b1733e7a4b2af46e" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工作区访问权限不可用"</string>
+    <string name="native_bcf4ad75ff9e869c" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"工作区访问权限需要处理"</string>
+    <string name="native_0d83760d39bfe443" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"Workspace Chat 仍无法完成设置"</string>
+    <string name="native_5b6f972fe06cd67b" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"准备就绪"</string>
+    <string name="native_daf24b5826fea4cb" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"你的凭据只会保存在私有 Linux 环境中的 OpenClaw 内。"</string>
+    <string name="native_15119916134c6307" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"你的消息尚未发送。"</string>
+    <string name="native_cd9c0589df59a075" formatted="false" tools:ignore="Typos,TypographyDashes,TypographyEllipsis">"你的私有 OpenClaw 运行环境已就绪。"</string>
+</resources>

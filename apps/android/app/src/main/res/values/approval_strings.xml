@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Product v1 supports English and Simplified Chinese; other locales fall back to English. -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="approval_denied">Denied</string>
+    <string name="approval_cancelled">Cancelled</string>
+    <string name="approval_run_command">Run this command?</string>
+    <string name="approval_review_action">Review action</string>
+    <string name="approval_checking_decision">Checking decision…</string>
+    <string name="approval_sending_decision">Sending decision…</string>
+    <string name="approval_checking_expiry">Checking expiry…</string>
+    <string name="approval_allowed_result">Allowed. Check the task for the operation result.</string>
+    <string name="approval_check_status">Check status</string>
+    <string name="approval_close_details">Close approval details</string>
+    <string name="approval_unavailable">This approval is not available. Check its status before continuing.</string>
+</resources>

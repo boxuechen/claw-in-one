@@ -1,0 +1,23 @@
+name: Product proposal
+description: Propose a focused improvement within the ClawInOne boundary.
+title: "[Proposal]: "
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: User problem
+      description: Describe the user outcome before proposing implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed experience
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Architecture and upstream impact
+      description: Explain whether this changes Android UI, Bootstrap, or upstream OpenClaw behavior.

@@ -1,0 +1,23 @@
+.DS_Store
+.idea/
+*.iml
+
+**/.gradle/
+**/.kotlin/
+**/build/
+**/target/
+**/local.properties
+
+*.apk
+*.aab
+*.jks
+*.keystore
+*.log
+*.tmp
+
+# Local verification candidates, device reports and private evidence.
+/.verification/
+
+# Local research checkouts; keep only the reference index in the product repo.
+/ref/*
+!/ref/README.md
