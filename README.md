@@ -23,14 +23,14 @@ delivery, interactive presentation, and permission-scoped device use.
 
 ### Build and run a Godot game—entirely on the phone
 
-https://github.com/user-attachments/assets/f336e1a7-fe69-42a0-8d2c-bc67718f4c59
+https://github.com/user-attachments/assets/42217e8e-328b-416c-9a5e-ed178a7675aa
 
 OpenClaw creates a Godot project, builds its ARM64 APK, installs it, previews it
 in VScreen, and launches the real app—all on the same Android phone.
 
 ### Use Android apps on the same phone
 
-https://github.com/user-attachments/assets/220550ee-c104-4ffb-9d3e-745c1fc27599
+https://github.com/user-attachments/assets/803950fd-f257-4e79-9e42-595eba5ff7c9
 
 OpenClaw uses Calculator to compute `379 x 4`, carries `1516` into Calendar,
 creates **ClawInOne demo - 1516** for next Monday at 2:00 PM, and verifies the
