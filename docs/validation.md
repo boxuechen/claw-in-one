@@ -22,7 +22,7 @@ Debian 13.7 ARM64, OpenClaw 2026.9.4, JDK 21, Android SDK 37, and scrcpy server
 | DevKit/Skills | Six development profiles were adopted as Ready without reinstall. `+ -> Skills` and `@` showed only matching Ready product workflows; Android Use appeared only after its permission returned. |
 | Android delivery | Kotlin, NDK, Flutter, Godot, and React Native produced exact ARM64 APKs and completed retained-device install/update paths under their qualified profiles. |
 | Web delivery | React/TypeScript/Vite production build/serve, exact reverse, Chrome open/update, and exact Stop completed without CDP. |
-| VScreen | Secondary Home and workload input worked. Close from fullscreen/Floating removed the scrcpy virtual display; reopening created a fresh Home target. System Back minimized and preserved the live display. |
+| VScreen | Secondary Home and workload input worked. A generated Godot APK opened in VScreen, accepted touch input, scored, consumed shield, reached game over, and restarted; the same package then launched on the physical display. Close from fullscreen/Floating removed the scrcpy virtual display; reopening created a fresh Home target. System Back minimized and preserved the live display. |
 | Android Use | A real Chat opened Calculator on VScreen, observed/operated it, and Stop released only the matching control lease while VScreen remained. |
 | AI UI | Settings exposes AI access and verified default model only; Chat options expose model/thinking without account selection or Provider installation. Dynamic thinking metadata and secret-lifetime policies passed focused tests. |
 
