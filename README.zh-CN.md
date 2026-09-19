@@ -23,10 +23,11 @@ Gateway，再将它连接回同一台手机，用于开发、App 交付、交互
 
 ### 在手机上创建并运行 Godot 游戏
 
-https://github.com/user-attachments/assets/7756f277-f69d-41f2-9174-87c53c7c8086
+https://github.com/user-attachments/assets/e1b47140-8676-4360-a49c-ada0eea7f6e9
 
-OpenClaw 在手机内创建 Godot 项目、构建 ARM64 APK、安装、在 VScreen 中
-开始并实际试玩，然后启动真实 App；整个闭环都发生在同一台 Android 手机上。
+OpenClaw 在手机内创建 Godot 项目并构建 ARM64 APK。ClawInOne 通过浮动
+VScreen 预览，安装并启动真实 App，再返回 Chat；整个闭环都发生在同一台
+Android 手机上。
 
 ### 在同一台手机上操作 Android App
 

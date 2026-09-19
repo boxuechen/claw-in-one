@@ -23,11 +23,11 @@ delivery, interactive presentation, and permission-scoped device use.
 
 ### Build and run a Godot game—entirely on the phone
 
-https://github.com/user-attachments/assets/7756f277-f69d-41f2-9174-87c53c7c8086
+https://github.com/user-attachments/assets/e1b47140-8676-4360-a49c-ada0eea7f6e9
 
-OpenClaw creates a Godot project, builds its ARM64 APK, installs it, previews it
-and plays it in VScreen, then launches the real app—all on the same Android
-phone.
+OpenClaw creates a Godot project and builds its ARM64 APK. ClawInOne previews it
+in the floating VScreen, installs and launches the real app, and returns to
+Chat—all on the same Android phone.
 
 ### Use Android apps on the same phone
 
