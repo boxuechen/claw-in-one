@@ -24,9 +24,10 @@ internal const val VSCREEN_AGENT_EVENT_STREAM = "claw-in-one-vscreen.workload"
 
 internal val vscreenMethods =
   setOf(
+    // hello-ok method discovery is conservative. Keep documented mutation methods such as
+    // close callable without requiring them to be advertised in the feature catalog.
     VSCREEN_STATUS_METHOD,
     VSCREEN_ENSURE_METHOD,
-    VSCREEN_CLOSE_METHOD,
     VSCREEN_WORKLOAD_METHOD,
     VSCREEN_FRAME_PRESENTED_METHOD,
   )
